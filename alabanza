@@ -1,0 +1,2632 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#efece5">
+<title>Alabanza · Hoguera</title>
+<meta name="robots" content="noindex">
+<link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAYFBMVEXJYFPKYVTAXFD/AAB/f3/////gpp/HYFPEWEr9/PvPd2wAAADlt7Hx19Tal4736OfsycXTg3nhq6TWjIPeoZrLbWLATD3pwr2xV1HATkC+STv04N7JYFXKYFPGX1L/f39wNtdvAAAAIHRSTlOgxDUBAgH//v7//wD///////////////8L////VT3HAg9ANZkAAAQvSURBVHjapVcLe5w4DHSTtLaMH4B5hN0k/f//8mZkeleyWe9elq8hlKCRNBrJtul4Pb903bv5Ye+8fpj3rnt5VlPD2++ue7vbesd4U7MK8Nq9Gr5091rrhwZmFeC1e7Lfup6IYBDI0/9wfgjjCcbm+eXVfvt6fXlGJuY7/msMBux1b+2P2uBvnfn50bRPYxPi46d5b7oPIn0zw3djWjlGyVmybyAY83HVgRsy3FsEka5+Yj+Mu56+CAng73CVCGda6RfHKjifG0SYa7H1Er2D+WzdBi7iNSK+Btid+pBFJE4azuDuB3BF04bVeQ0REH6brlH5FYDD1xNr2DMJhzpkfyqV0jsAKn0Lkkhuv1CH4YQX6xdUmq/og0PPpJ1NYR29IiSGFGd3C8B5RG63RP3RjhdCH9Q9crmg0lzSr/TBF+9ltkNUFZAIN6o2GgCkX+mD01nvvEY5azhASBfFMMf891zLnjZ16P48J4nIReTI5BHAS8/IEyOmEEufcw8ykVjhH/DYNwEGAChITybAp/Sx1j9nwq93ACxJBhQhMPWc2Ex9jR+3M1BuAawLvzhnBhx2HUXa1OSsW28ABJfPbpZx82qfYuBbeI/wPooHyHwDAFzDYhn5IUQJz+qdnifxWxDfrMIIgG1AL9RwC9pwdjFWAEYw3gTIEb/SaYSB9Cc8ewUgNWEHaQFMS1TLZZDpFGTaKpAjLnhwNwBmWI0yLEw0KmNRwsISktO9EjcAVEhemIf4ZYJ2LCVMu8JqtHVAANA1nRJRMoy801BUnkzO5dxqJs9etBlUJrj21G9tDT4Vapq3JsDKdeAscZhkPA0Q1MAGqEFE7SrbBuD0Zi9CQTDKEcqeEUSB6dna6XK6XwDIL4S92dSjC5c+o4Qb9WkRlQ5451xrpBUuJRFzdKOslxityoFNiPcB88D5Rhl1/PhwxrelyjpAlIBhn3vrls368CmJi6mMxdD6lKEgsUUGAGwxQkvw6xPja1Wh0ifKIAYp6jmjsKdeSE6uM/7zYP8EAO2OaRpDmLybsTmxkCGlvPjQh+Rnn+INKesUWk6nzY7c3rCl2RZlW/5d55rdSHvrh8Q1ebV/9MN1tnil2FnXXBfgoK+5Ro+Opgp1wP5i9jGM5WLjaC5WRuknXwcqntl/4z7iM/8vYW5GgD5CuWtLrIIllWtJXeMwVbW+ud3OvVOYvQslRG1DXVvY0ZwHn4Tkjmvj6PYFeoT9LMnieRbdbKzsa1ByAHCHjSYAJh3lgwoZrj37yUriQJpIwHIA4EbTHFMAUSXpAIa3OkQBVpDMUmQFxKdeMIfNNgBQvhOc6iAe6pKMGiqgl2FmjQ8A74ftvrMTl9OCXKE355nzUPgPz9bpu2n6uwrY7h8OHCo1+/eP3bX3389BSThwPHzkefjQ9fCx7/GD5+NH38cP3w8d//8Be5aRuufCLR0AAAAASUVORK5CYII=">
+<link rel="apple-touch-icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAMAAAAKE/YAAAAAYFBMVEXHYFP+/f3EWEvPd2z36Ofal47lt7Hx19TsysbThHrhqqPWjIPLbWHeoprpwbz04N7gpp7ATT6/SjvBTkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABmKjUlAAAAIHRSTlP//////////////////////////wAAAAAAAAAAAAAAALESzYUAAAuqSURBVHja7VzJduu4DpTBSdTo2+////VJJEZaySp0nHOEXrSVa1slsIiJgIfhlltuueWWW2655ZZbbrnllltuueWWWz5S4JC/hzmm/MdQg0uPx2P6U8qG7B+njAP8HWqsDxTv/ghqGLaHSIC/Q2eR+AeIDTOCTSO9+HRiA0xMC3DjnyA2DIgznTgBwh8gNtM5IiPA7Z9ObKZzYIis+g+12GydDYWZ5PsnEhtgu9YpE/vzQhFYkM6v8Qa46tMfK3xmsPGY4ZsH+qztSBT4grjs2D9oOx6x8wsmQGm248f4GTZrtPoFrCsyEG42h5+xHXmfBYI8zDHh33yKuaqf/cwneEdSoa8qPCKO6E2U99hDgf2yIL+IeVXBxqnP7fEqNVu8ov4HbEGVsjRSrTcZmbTAx2xBtscPH8OcXQ7rRlTBp0Jz/otGpHF17GDOvccmL286FeDn+q3tCPmhvSCtfXRmowHFq6d2QRbnd8oLBLIuNbH7MCLwBfHpjdOvGRHegrjsGONtl4YBnw+ZzNvx3UaEV3kDvejrF9ojnNmQ/83bsQlEYUhtiGdjD3ZBwXrHGX7Nc+OlKK7EHnMI4Yw9LGp6yvHdITZ7bqdXmzEf9mIdKfZgW0K2pjoW3hLv2o7suRe9r2hbQevJJTNHJs9V2c83bkfW0QZaZRRPwBBbF46hlPKfA7yYzPeYDUtODqWlkOd9E3kcD/jUCc63KdrPYjZumO5LTpm1F7M7Ll0Y9aqoZyofeFOIzbw0zo0WmK+DxB45WcYTeyZtKutVZ7OBFoCowYA2uoaXYo3YFlyc+CYjQlEDhpnOmxoYLX2A62INvw/VG8F8ZyfUNtJBu5uYGuErW0BPxyuC6g0mEumDmr6dgme7w5Aal1aX1iAxRSpqp78JNf/T4o3ntrZs9t9Rk+0kW5lynYzX8R28DMLEOK0+wdSYhABNuCTFmmDLDMOurxbfC3TWyolqQYmzsvqwhDimNMawMGzepkoFflB02buZu03RcATD9YnrS1kFHxsHTEjkrB87qIsEvfYh2qmiNYyXVhtgQB4f1wFTxYksgEU/9xtAV0U/tcXieOmiWMNVjpqSRa3qRYz1CL0C0go6ssbQXqHVgIEO5FI8UoCJjuQW2n5eAXXKFnUD/STQ9d4YPHhR+kCBRqkiFFnqQ+yDLp2SzdmtW+wCemLQmT1D/eMEpgYdF0kN0WgQoLIZiNVC5HeAnuhuVdEjaAcyNrWaGmkErWq09bOQbO21EQX0yOQOct8KzrfhEj4YabdcREVq9wbQE+CNS7ZRVhutyPhVObSy6dUi1+/JfUE/MVoSDVVbu0jCl8D68eHFCqu1qY8c+NN7txz8BJ3pvoWVyOjdhHgwHH48zqB4kFtO1MVZG5r1cC6HYsqLxLajmr5ZsJTwyOtAtaCbFCdmMR/y8b6gn6Tf4uFmdjcRXlprknhN4kcSlyKgC+27gT4glnttvA8dv8o2gFL5qxNMwgkN2umF+nHQGZRWGXRZdNpeNYAaQ4n1KvcLJ9wLVd4Ammh7BdoJFWYqrdeSdeY3zpegn31BZw16+xJ0Uuk6a3IUIo9i2jep2nQ6y7WgR8aSyWBXJpy39yCWIl6BXls7vfQC7dCTqNAj4l2FtOXRoopEtxa0sh4706cv6AGUJyjGz6pSEUWDZk5r3z1I7LF0qkPWhR9ARabllbiZkXW+ivebrPXQUZKTaKs/aEd3EF2peCRwXlieZAYLT8Wj4nL6bUTebBJeqiA1sUnZsJwgbq6Y7lHMnHoZO4MeqFBRoCaJ7Th2qqzGE8U8S0652324vmzJbnb6BL0LVPaEStU6B5OISacKDaVNOa8LaE+gF9HhROuKJSMHuvWnpOEqD8ZSEqjIWoUIS0/QmKWIqj3rk6wZFsock5xyMoU/KYs+9QpNFWipilWoI0j9dmbU2HawNvUNzQ60cuW5uqRbAhoJHMBWjXStHIY1LNCU/RSvdMHHlEA6gPam06MSJDUMR9Q1RaTqqKLVIu5w0iXU0A+0LsR5oTVGc6E5YcN/zGByH0sUCsFdF9B6PQc5Dq8lccxQ54e5f9Wt8uoXRDmufCdK430GMOcC5cgKUQdBTQBq2YFw+kui2BXoEuW5toHjrIIhaqm7GEdnKlC6t2btfXjR2CjtQc56Y0UtOa7KYojQo2rRMgcJkPqdNFfQG7x2qhwtbZXjybrnik1ZuIsFoLrl2Ono0z2aPa66JPxzks1IMVFRLpJjUvjLw9Lpej3T90NX0Mmce2c78eQ5jN4o7n6+eBhHG+DcDPjYvVo+yF6YM9nj1NMcCwWVz6i4VVV7kf7zv7M5MvZuUyHQTbvgscBBcCeVJqoMIco2raee0zBzm1PPJl8GfdwlgyHJ0WhFNCk9eoje6wKDju2OB1eUCh1br9AJokZXpwd/pRnFMWgp4BXTjeRoG5xSUGMEXVR9nLEJ8BTnxeDeaH8ttTtBUvVk6tAKcTkFE8jQa6g66I2XJrkrJ6dYOSgAI+fsksPUT25TcOaZl9Stk+k0U2u6Xl+iRyiur/xvMvUbJEeasL9afeuw+q7tV+fGm9LLTuJTjcITV9vZAiXqcmh69hI2DdbH9/n+feCnvrMQPJ04Bsz5KGsvPiZQ8viEy5z7xO8CaqD/oEBtnafpkLSuO7FjRfAG9EQvIthvkDXr2CsLRv5B2O1hReUAHc2sGivWwUj0WhWS9YN8nrWlfT/bZqZwjlioIZEzBGTvJ1jJ9mEEko/pqHndTNSCTbOdHMzkH1/KxOWxsh/pkFF5mfTlZ8fcC7VE0Fe3leqphCBSsAxgIoGLz/eJQL65Z6q93dw2yBFHeRIuxXAfL86iHfwSL9sns8V2S7+t88nLfPTPTzEe1M7o23jwRUqSk66onv+FMXmfxql03tP8TvS9hv5qyqo7dm33nQznYxGEa0i1NWWRGo6ZcSgTBGsv0Htl3hdDITqLUWfHnBZI9nDV2HnmMLlTATJ90ZYpjW3rZhvhJAOTZsPrr3CdSr0X+WdZaE4C9lwPP6FtituotAPf+YAuoO3ofeHlkkNkpzg15QF1OhB5CPSdvxp0gF5BRQ3LkRPwKC01tlGYP79WmMhzjmw33gIakZQwZ9wvnIs4Pd38w6UDmcs4OmfPQYd3YAcMPsYLv6iD6rbPivalOkCqXEnxGWRIe3h38MFNsEmXbbiEN8Hlr9mg2p+uK27qTcI1XmeM8ShGU4nraLq7Vzs48PgmJ+81AHXO/dbd5Ow0SKkeRTO6ggFLaPqbtmZT9AqnAehHUTKfqCQ7HVeqvEMzsD9b1EiY/53zRjoL6DPHoIZoQTdFZntW4WC3v3pgBkRUgaSaDsebZIJuFSZVf6wrz/eqYELVt5e26Vr3kBwQVNm9mqOdS2p9QPuhObnyYBZiqoVH79TZD5k61vXSHIHZaYGfB63WsLIhmHmbiP7F11XQjRH6vc+mjm6mGn4etBC43mh/wVxBq1YFZb3pVHlodl79QzfQbCl45vplYKCGsJXiqh1FV/xfNev7FD4q6MWOPdF1bsgQQeWIVeubDv+CJTH0By2/dGbatzdllwO89PzOWQ33uIf1pOULnh1BHz+V8rClLOzUU0tv2yLrc/wXHrbRTWYeXjb5j3OaZixGOUfRdJVmBdyRrHzdVpNU3gC9OT3QaOFczLH0qkU9Gqx6f7jpJoNUbcwxRimZdAWNN1vZSJDBdnqSxQlrFhD0TY97IOTjPPieJo8rYGQk0MGNWtGj8oQOC6mjbQM+3xb+caTrH71Bl0Gteltmx/qqaFFwNm/lqt45Czj1/V1OBr1KQ3pmfmb1Kw1RDcXtoGiilge7lOWguVOvKTbTzGrtF+7d1G1Ci9L6hAf7UdIxbi0bwf7YVJd+oHBUG4O01pwXVbtxm3mSPUbxc/M4VYu3PflTa8DOvePjIIX6uMXQ7RwR7JHJ0P5oc3PSBlx1aP+9/dBf/OXnW2655ZZbbrnllltuueWWW2655ZZb/qz8H/B/VReFSkdKAAAAAElFTkSuQmCC">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=Exo+2:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" referrerpolicy="no-referrer">
+<style>
+  /* Mismos componentes que Alabanza TF, con la paleta y tipografía de Hoguera.
+     Los nombres de variables de TF (--gold, --lilac…) se conservan como alias
+     para que el código de la app no cambie. */
+  :root {
+    --paper: #efece5;
+    --card: #fbfaf7;
+    --card-2: #ffffff;
+    --ink: #1f1c1a;
+    --ink-soft: #5e5852;
+    --ink-faint: #9a928a;
+    --line: rgba(31, 28, 26, .10);
+    --rust: #c4532f;
+    --rust-deep: #a43f20;
+    --rust-soft: #f6e3db;
+    --logo: #c76053;
+    --amber: #d4912a;
+    --sky-deep: #4f8fb0;
+    --sage: #5c8a5b;
+
+    --bg: var(--paper);
+    --bg-panel: var(--card);
+    --bg-panel-2: var(--card-2);
+    --solid-panel: var(--card);
+    --solid-panel-2: #f5f2ec;
+    --border: var(--line);
+    --gold: var(--rust);
+    --gold-light: var(--rust-deep);
+    --lilac: var(--ink-soft);
+    --lilac-dim: var(--ink-faint);
+    --white: var(--ink);
+    --green: var(--sage);
+    --red: #c0392b;
+
+    --t-domingo: #c76053;
+    --t-miercoles: #4f8fb0;
+
+    --g-dirige: #d4912a;
+    --g-voces: #c76053;
+    --g-musicos: #4d8580;
+    --g-programa: #4f8fb0;
+
+    --radius-pill: 999px;
+    --radius-card: 22px;
+    --shadow: 0 1px 2px rgba(31, 28, 26, .04), 0 12px 32px -12px rgba(31, 28, 26, .18);
+    --shadow-lg: 0 2px 4px rgba(31, 28, 26, .05), 0 28px 60px -20px rgba(31, 28, 26, .32);
+    --ease: cubic-bezier(.2, .8, .2, 1);
+    --topbar-h: 68px;
+    --g: 16px;
+    --logo-mask: url("data:image/png;base64,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");
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+  body {
+    background: var(--bg); color: var(--ink);
+    font-family: 'Exo 2', system-ui, sans-serif; font-size: 14.5px; line-height: 1.5; letter-spacing: -.02em;
+    -webkit-font-smoothing: antialiased; min-height: 100dvh; overflow-x: hidden;
+  }
+  body.locked { overflow: hidden; }
+  button, input, select, textarea { font: inherit; color: inherit; letter-spacing: inherit; }
+  button { border: 0; background: none; cursor: pointer; }
+  button, a, input, select, textarea, label, .press { touch-action: manipulation; }
+  a { color: var(--rust-deep); }
+  .hidden { display: none !important; }
+  .logo-m { display: block; background: currentColor; -webkit-mask: var(--logo-mask) center/contain no-repeat; mask: var(--logo-mask) center/contain no-repeat; }
+
+  .title-font {
+    font-family: 'Barlow Condensed', sans-serif; text-transform: uppercase; letter-spacing: -.01em; font-weight: 700;
+  }
+
+  /* Botones que se sienten */
+  .press { transition: transform .14s var(--ease), background .2s, border-color .2s, color .2s, opacity .2s, box-shadow .2s; user-select: none; -webkit-user-select: none; }
+  .press:active { transform: scale(.96); }
+  .press[disabled] { pointer-events: none; }
+  .press.loading { color: transparent !important; position: relative; }
+  .press.loading > * { visibility: hidden; }
+  .press.loading::after {
+    content: ''; position: absolute; left: 50%; top: 50%; width: 18px; height: 18px; margin: -9px 0 0 -9px; border-radius: 50%;
+    border: 2.5px solid var(--ink-soft); border-color: var(--ink-soft) var(--ink-soft) transparent transparent; animation: spin .7s linear infinite;
+  }
+  .btn-primary.loading::after, .fab.loading::after { border-color: #fff #fff transparent transparent; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .btn {
+    display: inline-flex; align-items: center; justify-content: center; gap: 9px;
+    padding: 12px 22px; border-radius: var(--radius-pill); font-weight: 600; font-size: .92rem;
+    border: 1.5px solid transparent;
+  }
+  .btn-primary { background: linear-gradient(135deg, var(--rust), #d9703f); color: #fff; box-shadow: 0 10px 24px -10px rgba(196, 83, 47, .7); }
+  .btn-primary:hover { box-shadow: 0 14px 28px -10px rgba(196, 83, 47, .8); }
+  .btn-outline { background: rgba(31, 28, 26, .05); color: var(--ink); }
+  .btn-outline:hover { background: rgba(31, 28, 26, .09); }
+
+  .badge {
+    display: inline-flex; align-items: center; gap: 5px; white-space: nowrap;
+    font-size: .7rem; font-weight: 600; letter-spacing: 0;
+    padding: 3px 9px; border-radius: var(--radius-pill);
+    background: rgba(31, 28, 26, .06); color: var(--ink-soft);
+  }
+  .badge-gold { background: var(--rust-soft); color: var(--rust-deep); }
+  .badge-ok { background: #e2ecdf; color: #3f6d3e; }
+
+  /* Varios cultos el mismo día */
+  .seg {
+    display: inline-flex; gap: 2px; padding: 3px; border-radius: var(--radius-pill);
+    background: rgba(31, 28, 26, .06);
+  }
+  .seg button {
+    padding: 4px 12px; border-radius: var(--radius-pill); font-size: .74rem; font-weight: 600;
+    color: var(--ink-soft); font-family: 'Exo 2', sans-serif; text-transform: none;
+  }
+  .seg button:hover { color: var(--ink); }
+  .seg button.on { background: var(--card-2); color: var(--ink); box-shadow: var(--shadow); }
+  .badge-var { background: #f8ead2; color: #94600f; }
+  .solo-tag {
+    font-size: .62rem; font-weight: 600; white-space: nowrap;
+    padding: 1px 7px; border-radius: var(--radius-pill); background: #f8ead2; color: #94600f;
+  }
+  .sub-stack { display: flex; flex-direction: column; align-items: center; gap: 6px; }
+
+  /* Avatar: degradado + iniciales Exo 2 light */
+  .av {
+    --s: 32px; width: var(--s); height: var(--s); border-radius: calc(var(--s) * .32); flex-shrink: 0; position: relative; overflow: hidden;
+    display: inline-flex; align-items: center; justify-content: center;
+    color: #fff; font-family: 'Exo 2', sans-serif; font-weight: 300;
+    font-size: calc(var(--s) * .38); letter-spacing: .04em; text-transform: uppercase; text-shadow: 0 1px 2px rgba(0, 0, 0, .12);
+  }
+  .av::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(255, 255, 255, .22), transparent 55%); pointer-events: none; }
+
+  /* ---------- Loader: logo respirando ---------- */
+  #loader {
+    position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; background: var(--paper);
+    transition: opacity .5s var(--ease), visibility .5s;
+  }
+  #loader.out { opacity: 0; visibility: hidden; }
+  #loader .logo-m { width: 92px; height: 139px; color: var(--logo); animation: breathe 2.4s ease-in-out infinite; }
+  @keyframes breathe {
+    0%, 100% { transform: scale(.94); opacity: .55; }
+    50%      { transform: scale(1.03); opacity: 1; }
+  }
+
+  /* ---------- Login ---------- */
+  #login { min-height: 100dvh; display: grid; place-items: center; padding: 32px var(--g); }
+  .login-card { width: 100%; max-width: 400px; }
+  .login-head { text-align: center; margin-bottom: 24px; }
+  .login-head .logo-m { width: 70px; height: 106px; margin: 0 auto; color: var(--logo); }
+  .login-head h1 { font-size: 1.6rem; margin-top: 16px; }
+  .login-head h1 span { color: var(--logo); }
+  .login-head p { color: var(--ink-faint); font-size: .88rem; margin-top: 2px; }
+
+  /* ---------- Topbar ---------- */
+  .topbar {
+    position: sticky; top: 0; z-index: 30; height: var(--topbar-h);
+    display: flex; align-items: center; justify-content: space-between; gap: 14px;
+    padding: 0 clamp(16px, 3vw, 28px);
+    background: rgba(239, 236, 229, .84);
+    backdrop-filter: saturate(1.4) blur(14px); -webkit-backdrop-filter: saturate(1.4) blur(14px);
+    border-bottom: 1px solid var(--border);
+  }
+  .user-wrap { position: relative; }
+  .user-chip { display: flex; align-items: center; gap: 12px; padding: 4px 10px 4px 4px; border-radius: 16px; text-align: left; }
+  .user-chip:hover { background: rgba(31, 28, 26, .05); }
+  .user-hola { font-weight: 600; font-size: .98rem; line-height: 1.2; }
+  .user-rol { color: var(--ink-faint); font-size: .76rem; }
+  .menu {
+    position: absolute; top: calc(100% + 10px); left: 0; min-width: 230px;
+    background: var(--card); border-radius: 18px; padding: 6px;
+    box-shadow: var(--shadow-lg); z-index: 35; transform-origin: top left;
+    opacity: 0; transform: scale(.92); pointer-events: none; transition: opacity .18s var(--ease), transform .18s var(--ease);
+  }
+  .menu.on { opacity: 1; transform: none; pointer-events: auto; }
+  .menu button {
+    display: flex; align-items: center; gap: 10px; width: 100%; text-align: left;
+    color: var(--ink); padding: 11px 12px; border-radius: 12px; font-size: .9rem; font-weight: 500;
+  }
+  .menu button:hover, .menu button:active { background: rgba(31, 28, 26, .06); }
+  .menu button.danger:hover { background: rgba(192, 57, 43, .08); color: var(--red); }
+  .menu i { width: 16px; text-align: center; color: var(--ink-soft); }
+  .menu hr { border: none; border-top: 1px solid var(--line); margin: 4px 6px; }
+  .topbar-logo { width: 27px; height: 41px; color: var(--logo); }
+
+  /* ---------- Shell: sidebar + canvas ---------- */
+  .sidebar {
+    position: fixed; left: 0; top: var(--topbar-h); bottom: 0; z-index: 20; width: 212px;
+    background: var(--paper); border-right: 1px solid var(--border);
+    padding: 16px 10px; display: flex; flex-direction: column; gap: 3px; transition: width .18s ease;
+  }
+  .sidebar-toggle {
+    display: flex; align-items: center; justify-content: center; width: 100%;
+    border-radius: 12px; color: var(--ink-faint); padding: 10px; margin-bottom: 14px; background: rgba(31, 28, 26, .05);
+  }
+  .sidebar-toggle:hover { color: var(--ink); }
+  .side-link {
+    display: flex; align-items: center; gap: 12px; padding: 11px 12px; border-radius: 12px; width: 100%;
+    color: var(--ink-soft); font-size: .9rem; font-weight: 500; white-space: nowrap; overflow: hidden; text-align: left;
+  }
+  .side-link i { width: 19px; text-align: center; font-size: 1rem; flex-shrink: 0; }
+  .side-link:hover { background: rgba(31, 28, 26, .05); color: var(--ink); }
+  .side-link.active { background: var(--card); color: var(--rust-deep); box-shadow: var(--shadow); }
+  .canvas {
+    margin-left: 212px; padding: 28px clamp(16px, 3vw, 32px) 100px; transition: margin-left .18s ease;
+    min-height: calc(100dvh - var(--topbar-h));
+  }
+  .shell.colapsado .sidebar { width: 64px; }
+  .shell.colapsado .side-link span { display: none; }
+  .shell.colapsado .side-link { justify-content: center; padding: 10px; }
+  .shell.colapsado .sidebar-toggle i { transform: rotate(180deg); }
+  .shell.colapsado .canvas { margin-left: 64px; }
+  .view { max-width: 1120px; }
+
+  .mobile-nav { display: none; }
+
+  /* ---------- Paneles ---------- */
+  .panel {
+    background: var(--card); border-radius: var(--radius-card); box-shadow: var(--shadow);
+    padding: 20px; margin-bottom: 22px;
+  }
+  .panel-warm {
+    background:
+      radial-gradient(120% 100% at 0% 0%, rgba(196, 83, 47, .12), transparent 60%),
+      radial-gradient(90% 90% at 100% 0%, rgba(159, 198, 218, .28), transparent 60%),
+      var(--card);
+  }
+  .panel-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 16px; flex-wrap: wrap; }
+  .panel-title { display: flex; align-items: center; gap: 10px; font-size: 1.3rem; }
+  .panel-title i { color: var(--logo); font-size: 1rem; }
+  .panel-sub { color: var(--ink-faint); font-size: .8rem; }
+  .empty { color: var(--ink-faint); text-align: center; padding: 26px 10px; font-size: .9rem; }
+
+  /* ---------- Te toca servir ---------- */
+  .mine { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+  .mine-card {
+    text-align: left; position: relative; overflow: hidden;
+    background: var(--card-2); border-radius: 18px; padding: 14px 16px 14px 18px; box-shadow: var(--shadow);
+  }
+  .mine-card::before { content: ''; position: absolute; inset: 0 auto 0 0; width: 4px; background: var(--tipo); }
+  .mine-when { font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: 1.2rem; text-transform: uppercase; letter-spacing: -.01em; }
+  .mine-what { color: var(--ink-soft); font-size: .82rem; }
+  .mine-roles { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .mine-ens { margin-top: 10px; font-size: .76rem; color: var(--ink-faint); display: flex; gap: 7px; align-items: center; }
+
+  /* ---------- Chips / tabs ---------- */
+  .tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tab {
+    padding: 8px 14px; border-radius: var(--radius-pill);
+    background: rgba(31, 28, 26, .06); color: var(--ink-soft); font-size: .82rem; font-weight: 600; white-space: nowrap;
+    display: inline-flex; align-items: center; gap: 7px;
+  }
+  .tab .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--c, var(--ink-faint)); }
+  .tab.active { background: var(--ink); color: #fff; }
+
+  /* ---------- Lista de servicios ---------- */
+  .week-label { font-size: .7rem; font-weight: 600; color: var(--ink-faint); letter-spacing: .16em; text-transform: uppercase; margin: 20px 2px 10px; }
+  .rows { display: grid; gap: 8px; }
+  .row {
+    display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 14px; width: 100%; text-align: left;
+    background: var(--card-2); border-radius: 20px; box-shadow: var(--shadow);
+    padding: 10px 14px 10px 12px; position: relative; overflow: hidden; animation: rowIn .4s var(--ease) both;
+  }
+  @keyframes rowIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  .row::before { content: ''; position: absolute; inset: 0 auto 0 0; width: 4px; background: var(--tipo); }
+  .datebox {
+    width: 50px; height: 52px; border-radius: 14px; background: var(--paper); margin-left: 4px;
+    display: grid; place-items: center; align-content: center; gap: 1px;
+  }
+  .datebox .dow { font-size: .62rem; font-weight: 600; text-transform: uppercase; letter-spacing: .1em; color: var(--ink-faint); }
+  .datebox .num { font-family: 'Barlow Condensed', sans-serif; font-size: 1.45rem; font-weight: 700; line-height: 1; }
+  .row-main { min-width: 0; }
+  .row-title { font-weight: 600; font-size: .95rem; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  .row-sub { color: var(--ink-faint); font-size: .78rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; }
+  .row-sub i { margin-right: 4px; }
+  .stack { display: flex; }
+  .stack .av { --s: 28px; margin-left: -8px; box-shadow: 0 0 0 2px var(--card-2); }
+  .stack .av:first-child { margin-left: 0; }
+  .stack .more { background: var(--paper); color: var(--ink-soft); font-weight: 600; font-size: .66rem; text-shadow: none; }
+  .stack .more::after { display: none; }
+
+  /* ---------- Cuadrícula de programación ---------- */
+  .grid-header { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 14px; margin-bottom: 18px; }
+  .month-nav { display: flex; align-items: center; gap: 10px; }
+  .month-label { font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: 1.25rem; text-transform: uppercase; min-width: 150px; text-align: center; }
+  .circle-btn {
+    width: 38px; height: 38px; border-radius: 14px; background: rgba(31, 28, 26, .06);
+    color: var(--ink); display: inline-flex; align-items: center; justify-content: center; font-size: .82rem; text-decoration: none; flex-shrink: 0;
+  }
+  .circle-btn:hover { background: rgba(31, 28, 26, .1); }
+  .grid-wrap { overflow-x: auto; border-radius: 18px; scroll-behavior: smooth; background: var(--card-2); box-shadow: var(--shadow); }
+  .grid-scroll { display: flex; justify-content: flex-end; gap: 8px; margin-top: 10px; }
+  .pill-btn {
+    padding: 8px 14px; border-radius: var(--radius-pill); background: rgba(31, 28, 26, .06); color: var(--ink-soft); font-size: .78rem; font-weight: 600;
+  }
+  .pill-btn:hover { color: var(--ink); }
+  .grid { width: 100%; border-collapse: separate; border-spacing: 0; font-size: .84rem; }
+  .grid th, .grid td { padding: 11px 14px; box-shadow: inset 0 -1px 0 var(--border); text-align: left; vertical-align: top; }
+  .grid thead th {
+    font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: .92rem; text-transform: uppercase;
+    white-space: nowrap; text-align: center;
+  }
+  .grid thead th.sub { font-family: 'Exo 2', sans-serif; text-transform: none; font-weight: 500; font-size: .8rem; color: var(--ink-soft); }
+  .grid thead th.sub button { color: var(--ink-soft); font-weight: 500; }
+  .grid thead th.sub button:hover { color: var(--rust-deep); }
+  .sub-ens { font-size: .7rem; color: var(--ink-faint); margin-top: 3px; font-weight: 400; }
+  .grid th.col-a { background: #f7f4ee; }
+  .grid th.col-b { background: #f1ede5; }
+  .grid td.col-a { background: #fff; }
+  .grid td.col-b { background: #faf8f4; }
+  .grid .rol-col {
+    position: sticky; left: 0; z-index: 2; background: var(--card); color: var(--ink-soft);
+    font-weight: 600; white-space: nowrap; text-align: left;
+  }
+  .grid thead .rol-col { font-family: 'Barlow Condensed', sans-serif; color: var(--ink-soft); }
+  .grid tbody .rol-col { border-left: 4px solid var(--g); background-image: linear-gradient(color-mix(in srgb, var(--g) 8%, transparent), color-mix(in srgb, var(--g) 8%, transparent)); }
+  .g-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--g); margin-right: 8px; }
+  .cell { min-width: 170px; }
+  .cell .p { display: flex; align-items: center; gap: 8px; padding: 3px 2px; border-radius: 6px; }
+  .cell .p + .p { margin-top: 4px; }
+  .cell .p.me .nombre { color: var(--rust-deep); }
+  .cell .nombre { color: var(--ink); font-weight: 500; }
+  .inst + .inst { margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--border); }
+  .prog-mini { margin: 0 0 2px; padding-left: 18px; display: grid; gap: 5px; }
+  .prog-mini li { color: var(--ink-soft); font-size: .82rem; }
+  .prog-mini li::marker { color: var(--logo); font-family: 'Barlow Condensed', sans-serif; font-weight: 700; }
+  /* Ficha de canción y acordes */
+  .seg.lg button { padding: 7px 16px; font-size: .82rem; }
+  .song-open { display: inline-flex; align-items: center; gap: 8px; text-align: left; color: var(--ink); font-weight: 600; font-size: .95rem; }
+  .song-open i { font-size: .65rem; color: var(--ink-faint); }
+  .song-open:hover, .song-open:hover i { color: var(--rust-deep); }
+  .acordes-sec { display: grid; grid-template-columns: 96px 1fr; gap: 12px; align-items: baseline; padding: 11px 0; border-bottom: 1px solid var(--border); }
+  .acordes-sec:last-child { border-bottom: 0; }
+  .acordes-sec .lbl { font-size: .66rem; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: var(--ink-faint); }
+  .acordes-linea { font-size: 1.05rem; line-height: 1.8; overflow-wrap: anywhere; letter-spacing: 0; }
+  .acorde { color: var(--rust-deep); font-weight: 700; }
+  .acordes-linea .sep { color: var(--ink-faint); }
+  .acordes-linea .rep { color: var(--sky-deep); font-weight: 700; margin: 0 2px; }
+  @media (max-width: 420px) { .acordes-sec { grid-template-columns: 1fr; gap: 2px; } }
+  .prog-tono { margin-left: 7px; font-size: .66rem; font-weight: 600; padding: 1px 7px; border-radius: 99px; background: var(--rust-soft); color: var(--rust-deep); }
+  .inst-lbl { display: block; font-size: .66rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-faint); margin-bottom: 3px; }
+  .vacio { color: var(--ink-faint); font-style: italic; font-size: .8rem; }
+  .rc-add { color: var(--ink-faint); font-size: .76rem; font-style: italic; margin-top: 6px; padding: 3px 2px; border-radius: 6px; display: inline-block; }
+  .rc-add:hover { color: var(--rust-deep); }
+
+  .grid-mobile { display: none; }
+  .stepper { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+  .stepper-info { flex: 1; text-align: center; min-width: 0; }
+  .stepper-fecha { font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: 1.05rem; color: var(--rust-deep); text-transform: uppercase; }
+  .stepper-evento { font-size: .9rem; font-weight: 600; margin-top: 2px; }
+  .stepper-pos { text-align: center; font-size: .74rem; color: var(--ink-faint); margin: 4px 0 14px; }
+  .m-group { background: var(--card-2); border-left: 4px solid var(--g); border-radius: 18px; padding: 12px 14px; margin-bottom: 10px; box-shadow: var(--shadow); }
+  .m-group-label { font-weight: 600; color: var(--ink-soft); font-size: .86rem; margin-bottom: 8px; display: flex; align-items: center; }
+
+  /* ---------- Canciones / equipo ---------- */
+  .search {
+    width: 100%; max-width: 340px; background: var(--paper); border: 1.5px solid transparent; border-radius: 16px;
+    padding: 10px 16px; font-size: 16px; outline: none;
+  }
+  .search:focus { border-color: var(--rust); box-shadow: 0 0 0 4px rgba(196, 83, 47, .12); }
+  .song-row, .team-row {
+    display: grid; grid-template-columns: auto 1fr auto; gap: 14px; align-items: center;
+    background: var(--card-2); border-radius: 20px; padding: 12px 14px; box-shadow: var(--shadow);
+    transition: transform .14s var(--ease);
+  }
+  .song-icon {
+    width: 42px; height: 42px; border-radius: 14px; display: grid; place-items: center;
+    background: var(--rust-soft); color: var(--rust);
+  }
+  .actions { display: flex; gap: 6px; }
+  .team-group { font-size: .7rem; font-weight: 600; color: var(--ink-faint); letter-spacing: .16em; text-transform: uppercase; margin: 18px 2px 10px; }
+  .team-group:first-child { margin-top: 0; }
+  .team-roles { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 5px; }
+
+  /* ---------- Sheet (hoja inferior / modal) ---------- */
+  .overlay {
+    position: fixed; inset: 0; z-index: 60; background: rgba(20, 17, 15, .42); backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px);
+    opacity: 0; visibility: hidden; transition: opacity .3s var(--ease), visibility .3s;
+  }
+  .overlay.open { opacity: 1; visibility: visible; }
+  .sheet {
+    position: fixed; z-index: 70; left: 0; right: 0; bottom: 0; max-height: 90dvh; overflow-y: auto; overscroll-behavior: contain;
+    background: var(--paper); border-radius: 28px 28px 0 0; box-shadow: 0 -20px 60px -20px rgba(0, 0, 0, .35);
+    padding: 10px max(18px, calc(var(--g) - 10px)) max(24px, env(safe-area-inset-bottom));
+    transform: translateY(105%); transition: transform .38s var(--ease);
+  }
+  .sheet.open { transform: translateY(0); }
+  .sheet-handle { width: 42px; height: 5px; border-radius: 9px; background: rgba(31, 28, 26, .18); margin: 4px auto 14px; }
+  @media (min-width: 768px) {
+    .sheet {
+      left: 50%; top: 50%; bottom: auto; right: auto; width: min(560px, 92vw); max-height: 86vh;
+      border-radius: 28px; padding: 24px 26px;
+      transform: translate(-50%, -46%) scale(.97); opacity: 0; visibility: hidden;
+      transition: transform .3s var(--ease), opacity .3s, visibility .3s;
+    }
+    .sheet.open { transform: translate(-50%, -50%) scale(1); opacity: 1; visibility: visible; }
+    .sheet-handle { display: none; }
+  }
+  .sheet-head { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; }
+  .sheet-head h3 { font-size: 1.55rem; line-height: 1.05; }
+  .sheet-head .meta { color: var(--ink-soft); font-size: .86rem; margin-top: 4px; }
+  .x-btn { width: 42px; height: 42px; border-radius: 14px; background: rgba(31, 28, 26, .06); color: var(--ink); flex-shrink: 0; }
+  .x-btn:hover { background: rgba(31, 28, 26, .1); }
+  .info-strip { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 4px; }
+  .d-group { margin-top: 12px; background: var(--card); border-radius: 20px; padding: 10px 16px; box-shadow: var(--shadow); }
+  .d-group-label { display: flex; align-items: center; font-size: .68rem; font-weight: 600; letter-spacing: .16em; text-transform: uppercase; color: var(--ink-faint); margin: 4px 0; }
+  .d-item { display: grid; grid-template-columns: 140px 1fr; gap: 12px; align-items: center; padding: 10px 0; border-bottom: 1px solid var(--border); }
+  .d-group .d-item:last-child { border-bottom: 0; }
+  .d-role { color: var(--ink-soft); font-size: .84rem; }
+  .people { display: flex; flex-direction: column; gap: 6px; }
+  .person { display: flex; align-items: center; gap: 10px; font-weight: 500; font-size: .92rem; }
+  .person.me { color: var(--rust-deep); }
+  @media (max-width: 380px) { .d-item { grid-template-columns: 1fr; gap: 4px; } }
+  .sheet-actions { display: grid; gap: 10px; margin-top: 20px; }
+  @media (min-width: 480px) { .sheet-actions.two { grid-template-columns: 1fr 1fr; } }
+
+  .song { display: grid; grid-template-columns: 30px 1fr; gap: 12px; padding: 13px 0; border-bottom: 1px solid var(--border); }
+  .song:last-child { border-bottom: 0; }
+  .song-n { font-family: 'Barlow Condensed', sans-serif; font-weight: 700; font-size: 1.5rem; color: var(--logo); line-height: 1.05; }
+  .song-title { font-weight: 600; font-size: .95rem; }
+  .song-artist { color: var(--ink-faint); font-size: .8rem; }
+  .song-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 7px; }
+  .song-links { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 8px; font-size: .82rem; }
+  .song-links a { text-decoration: none; display: inline-flex; gap: 6px; align-items: center; font-weight: 600; }
+  .song-links a:hover { text-decoration: underline; }
+  .bloque-label { font-family: 'Barlow Condensed', sans-serif; font-weight: 700; text-transform: uppercase; font-size: .95rem; color: var(--ink-soft); margin: 14px 0 0; display: flex; align-items: center; gap: 8px; }
+  .bloque-label::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+  .quien { display: inline-flex; align-items: center; gap: 6px; font-size: .78rem; color: var(--ink-soft); margin-top: 6px; }
+
+  /* ---------- FAB y toasts ---------- */
+  .fab {
+    position: fixed; right: 22px; bottom: 22px; z-index: 40; width: 58px; height: 58px; border-radius: 20px;
+    background: var(--ink); color: #fff; display: grid; place-items: center; font-size: 1.15rem;
+    box-shadow: 0 18px 36px -12px rgba(31, 28, 26, .6);
+  }
+  .fab:active { transform: scale(.92); }
+  #toasts {
+    position: fixed; left: 50%; bottom: 96px; z-index: 90; transform: translateX(-50%);
+    display: grid; gap: 8px; width: min(420px, calc(100vw - 32px)); pointer-events: none;
+  }
+  .toast {
+    display: flex; align-items: center; gap: 10px; background: var(--ink); color: #fff;
+    padding: 13px 16px; border-radius: 16px; box-shadow: 0 14px 34px -10px rgba(0, 0, 0, .45); font-size: .9rem; font-weight: 500;
+    animation: toast-in .35s var(--ease);
+  }
+  .toast i { width: 22px; height: 22px; border-radius: 50%; display: grid; place-items: center; font-size: .7rem; background: var(--sage); color: #fff; flex-shrink: 0; }
+  .toast.err i { background: var(--red); }
+  .toast.out { animation: toast-out .25s var(--ease) forwards; }
+  @keyframes toast-in { from { opacity: 0; transform: translateY(12px) scale(.96); } }
+  @keyframes toast-out { to { opacity: 0; transform: translateY(8px) scale(.96); } }
+
+  /* ---------- Formularios ---------- */
+  .form { display: grid; gap: 14px; margin-top: 16px; }
+  .field { display: grid; gap: 6px; }
+  .field > span { font-size: .72rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-faint); margin-left: 2px; }
+  .field small { font-size: .74rem; color: var(--ink-faint); }
+  .input, .select, .textarea {
+    width: 100%; background: #fff; border: 1.5px solid var(--border); border-radius: 14px;
+    padding: 11px 14px; font-size: 16px; color: var(--ink); outline: none; font-family: inherit; appearance: none; -webkit-appearance: none;
+    transition: border-color .2s, box-shadow .2s;
+  }
+  .input:focus, .select:focus, .textarea:focus { border-color: var(--rust); box-shadow: 0 0 0 4px rgba(196, 83, 47, .12); }
+  .select { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%239a928a' stroke-width='2'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; padding-right: 2.4rem; }
+  .textarea { min-height: 76px; resize: vertical; }
+  .row-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  @media (max-width: 420px) { .row-2 { grid-template-columns: 1fr; } }
+  .code-input { font-family: 'Exo 2', sans-serif; font-weight: 600; font-size: 1.5rem; letter-spacing: .45em; text-align: center; padding: 12px; }
+  .link-btn { color: var(--ink-soft); font-size: .85rem; font-weight: 500; text-decoration: underline; text-underline-offset: 3px; }
+  .link-btn:hover { color: var(--rust-deep); }
+  .muted { color: var(--ink-faint); font-size: .82rem; }
+  .login-box { background: var(--card); border-radius: 28px; padding: 26px 22px; box-shadow: var(--shadow-lg); }
+
+  .switch { display: flex; align-items: center; justify-content: space-between; gap: 12px; cursor: pointer; font-size: .9rem; }
+  .switch input { display: none; }
+  .switch .track { width: 44px; height: 26px; border-radius: 99px; background: rgba(31, 28, 26, .15); position: relative; transition: .2s; flex-shrink: 0; }
+  .switch .track::after { content: ''; position: absolute; top: 3px; left: 3px; width: 20px; height: 20px; border-radius: 50%; background: #fff; box-shadow: 0 1px 3px rgba(0, 0, 0, .2); transition: .2s var(--ease); }
+  .switch input:checked + .track { background: var(--rust); }
+  .switch input:checked + .track::after { left: 21px; }
+
+  /* Selector de personas por rol */
+  .pick-role { padding: 10px 0; border-bottom: 1px solid var(--border); }
+  .pick-role:last-child { border-bottom: 0; }
+  .pick-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+  .pick-head b { font-size: .88rem; font-weight: 600; }
+  .pick-head small { color: var(--ink-faint); font-size: .72rem; }
+  .pick-list { display: flex; flex-wrap: wrap; gap: 6px; }
+  .pick {
+    display: inline-flex; align-items: center; gap: 7px; padding: 4px 12px 4px 4px; border-radius: var(--radius-pill);
+    border: 1.5px solid var(--border); background: #fff; font-size: .82rem; font-weight: 500; color: var(--ink-soft);
+  }
+  .pick .av { --s: 26px; border-radius: 50%; }
+  .pick.on { border-color: var(--ink); background: var(--ink); color: #fff; }
+  .pick:disabled { opacity: .35; cursor: not-allowed; }
+
+  /* Editor de programa */
+  .prog-item { display: grid; grid-template-columns: auto 1fr auto; gap: 10px; align-items: start; padding: 12px 0; border-bottom: 1px solid var(--border); }
+  .prog-item:last-child { border-bottom: 0; }
+  .prog-move { display: grid; gap: 4px; }
+  .mini-btn {
+    width: 30px; height: 30px; border-radius: 10px; background: rgba(31, 28, 26, .06); color: var(--ink-soft);
+    display: grid; place-items: center; font-size: .72rem;
+  }
+  .mini-btn:hover { color: var(--ink); }
+  .mini-btn.danger:hover { color: var(--red); background: rgba(192, 57, 43, .08); }
+  .mini-btn:disabled { opacity: .35; }
+
+  .danger-btn { color: var(--red); background: rgba(192, 57, 43, .08); }
+  .danger-btn:hover { background: rgba(192, 57, 43, .14); }
+  .clickable { cursor: pointer; }
+  .clickable:active { transform: scale(.975); }
+
+  /* Confirmación */
+  #confirm { position: fixed; inset: 0; z-index: 95; display: none; place-items: center; padding: 20px; background: rgba(20, 17, 15, .45); backdrop-filter: blur(3px); }
+  #confirm.on { display: grid; }
+  #confirm .box { background: var(--paper); border-radius: 26px; padding: 22px; max-width: 380px; width: 100%; box-shadow: var(--shadow-lg); animation: toast-in .3s var(--ease); }
+  #confirm p { color: var(--ink-soft); font-size: .92rem; margin: 8px 0 18px; }
+
+  /* ---------- Móvil ---------- */
+  @media (max-width: 919px) {
+    :root { --g: 26px; }
+    .sidebar { display: none; }
+    .canvas, .shell.colapsado .canvas { margin-left: 0; padding: 18px var(--g) 120px; }
+    .topbar { padding: 0 var(--g); }
+    .panel, .panel-warm { background: none; box-shadow: none; padding: 0; border-radius: 0; margin-bottom: 26px; }
+    .grid-wrap, .grid-scroll { display: none; }
+    .grid-mobile { display: block; }
+    .month-nav { width: 100%; justify-content: center; }
+    .mobile-nav {
+      display: flex; position: fixed; left: 0; right: 0; bottom: 0; z-index: 50;
+      background: rgba(251, 250, 247, .9); backdrop-filter: saturate(1.4) blur(14px); -webkit-backdrop-filter: saturate(1.4) blur(14px);
+      border-top: 1px solid var(--border);
+      padding: 8px 6px calc(8px + env(safe-area-inset-bottom));
+    }
+    .m-nav-btn { flex: 1; display: flex; justify-content: center; padding: 6px 0; color: var(--ink-faint); transition: transform .18s ease; }
+    .m-nav-icon { width: 42px; height: 42px; border-radius: 14px; display: grid; place-items: center; font-size: 1.05rem; transition: .18s; }
+    .m-nav-btn.active { color: #fff; transform: scale(1.12) translateY(-3px); }
+    .m-nav-btn.active .m-nav-icon {
+      background: linear-gradient(135deg, var(--rust), #e8a04a);
+      box-shadow: 0 6px 16px -4px rgba(196, 83, 47, .6), 0 3px 10px -2px rgba(0, 0, 0, .15);
+    }
+    .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; }
+    .fab { bottom: calc(86px + env(safe-area-inset-bottom)); right: var(--g); }
+    #toasts { bottom: calc(156px + env(safe-area-inset-bottom)); }
+    .mine { grid-auto-flow: column; grid-template-columns: none; grid-auto-columns: minmax(230px, 78%); overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding-left: var(--g); scrollbar-width: none; margin: 0 calc(-1 * var(--g)); padding: 4px var(--g) 10px; }
+    .mine::-webkit-scrollbar { display: none; }
+    .mine-card { scroll-snap-align: start; }
+    .tabs.scroll { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: 0 calc(-1 * var(--g)); padding: 2px var(--g) 4px; }
+    .tabs.scroll::-webkit-scrollbar { display: none; }
+    .panel-title { font-size: 1.15rem; }
+    .sheet-head h3 { font-size: 1.3rem; }
+  }
+  @media (max-width: 480px) {
+    .user-rol { display: none; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
+  }
+</style>
+</head>
+<body class="locked">
+
+<div id="loader"><div class="logo-m" role="img" aria-label="Hoguera"></div></div>
+
+<!-- Login -->
+<section id="login" class="hidden">
+  <div class="login-card">
+    <div class="login-head">
+      <div class="logo-m" role="img" aria-label="Hoguera"></div>
+      <h1 class="title-font">Alabanza <span>Hoguera</span></h1>
+      <p>Programación del equipo</p>
+    </div>
+    <div class="login-box" id="login-box"></div>
+  </div>
+</section>
+
+<div id="confirm" role="alertdialog" aria-modal="true">
+  <div class="box">
+    <h3 class="title-font" style="font-size:1.05rem" id="confirm-title"></h3>
+    <p id="confirm-msg"></p>
+    <div class="sheet-actions two" style="margin-top:0">
+      <button class="btn btn-outline press" id="confirm-no">Cancelar</button>
+      <button class="btn btn-primary press" id="confirm-si">Confirmar</button>
+    </div>
+  </div>
+</div>
+
+<!-- App -->
+<div id="app" class="shell hidden">
+  <header class="topbar">
+    <div class="user-wrap">
+      <button class="user-chip press" id="user-chip" aria-haspopup="menu">
+        <span id="user-av"></span>
+        <span>
+          <span class="user-hola" id="user-hola"></span>
+          <span class="user-rol" id="user-rol" style="display:block"></span>
+        </span>
+      </button>
+      <div class="menu" id="user-menu" role="menu">
+        <button data-menu="perfil"><i class="fa-regular fa-user"></i>Mi perfil</button>
+        <button data-menu="hoguera" class="hidden" id="menu-hoguera"><i class="fa-solid fa-house-chimney"></i>Proyectos Hoguera</button>
+        <hr>
+        <button data-menu="salir" class="danger"><i class="fa-solid fa-right-from-bracket"></i>Cerrar sesión</button>
+      </div>
+    </div>
+    <div class="topbar-logo logo-m" role="img" aria-label="Hoguera"></div>
+  </header>
+
+  <aside class="sidebar">
+    <button class="sidebar-toggle press" id="sidebar-toggle" aria-label="Contraer menú"><i class="fa-solid fa-chevron-left"></i></button>
+    <nav id="side-nav"></nav>
+  </aside>
+
+  <main class="canvas">
+    <!-- Inicio -->
+    <section class="view" data-view="inicio">
+      <div class="panel panel-warm" id="panel-mine">
+        <div class="panel-head">
+          <h2 class="panel-title title-font"><i class="fa-solid fa-star"></i>Te toca servir</h2>
+          <span class="panel-sub" id="mine-count"></span>
+        </div>
+        <div class="mine" id="mine"></div>
+      </div>
+
+      <div class="panel">
+        <div class="panel-head">
+          <h2 class="panel-title title-font"><i class="fa-regular fa-calendar"></i>Próximos servicios</h2>
+          <span class="panel-sub">Todo el equipo</span>
+        </div>
+        <div class="tabs scroll" id="filters"></div>
+        <div id="list"></div>
+      </div>
+    </section>
+
+    <!-- Programación (cuadrícula) -->
+    <section class="view hidden" data-view="programacion">
+      <div class="grid-header">
+        <div class="month-nav">
+          <button class="circle-btn press" data-acc="gridMes" data-dir="-1" aria-label="Mes anterior"><i class="fa-solid fa-chevron-left"></i></button>
+          <span class="month-label" id="month-label"></span>
+          <button class="circle-btn press" data-acc="gridMes" data-dir="1" aria-label="Mes siguiente"><i class="fa-solid fa-chevron-right"></i></button>
+        </div>
+        <div class="tabs scroll" id="grid-tabs"></div>
+      </div>
+      <div class="grid-wrap" id="grid-wrap"></div>
+      <div class="grid-scroll">
+        <button class="pill-btn press" data-acc="gridScroll" data-dir="-1"><i class="fa-solid fa-chevron-left"></i> Ver más</button>
+        <button class="pill-btn press" data-acc="gridScroll" data-dir="1">Ver más <i class="fa-solid fa-chevron-right"></i></button>
+      </div>
+      <div class="grid-mobile" id="grid-mobile"></div>
+    </section>
+
+    <!-- Canciones -->
+    <section class="view hidden" data-view="canciones">
+      <div class="panel">
+        <div class="panel-head">
+          <h2 class="panel-title title-font"><i class="fa-solid fa-music"></i>Bitácora de canciones</h2>
+          <input class="search" id="song-search" type="search" placeholder="Buscar canción o artista">
+        </div>
+        <div class="rows" id="song-list"></div>
+      </div>
+    </section>
+
+    <!-- Equipo -->
+    <section class="view hidden" data-view="equipo">
+      <div class="panel">
+        <div class="panel-head">
+          <h2 class="panel-title title-font"><i class="fa-solid fa-users"></i>Equipo</h2>
+          <span class="panel-sub" id="team-count"></span>
+        </div>
+        <div id="team-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <nav class="mobile-nav" id="mobile-nav"></nav>
+
+  <button class="fab press hidden" id="fab" aria-label="Agregar programación"><i class="fa-solid fa-plus"></i></button>
+</div>
+
+<div class="overlay" id="overlay"></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true">
+  <div class="sheet-handle"></div>
+  <div id="sheet-body"></div>
+</div>
+
+<div id="toasts" aria-live="polite"></div>
+
+<script>
+// Mismo backend que el panel de Hoguera (Apps Script + Google Sheets).
+// La sesión se comparte con index.html (misma clave en localStorage).
+const API_URL = 'https://script.google.com/macros/s/AKfycbxLcjqXwneGkTur_2eBFFAGBBUuA5coldSf7O-s2d35iJ7Wq7qXjR5GkAvz-8iwexjj/exec';
+const ES_LOCAL = ['localhost', '127.0.0.1'].includes(location.hostname);
+const DEMO = ES_LOCAL && new URLSearchParams(location.search).has('demo'); // vista previa local con datos de ejemplo
+const LS_TOKEN = 'hg_token';
+
+function fetchTimeout(url, opts = {}, ms = 30000) {
+  const c = new AbortController(); const t = setTimeout(() => c.abort(), ms);
+  return fetch(url, { ...opts, signal: c.signal }).finally(() => clearTimeout(t));
+}
+async function apiGet(action, params = {}, reintento = true) {
+  if (DEMO) return Mock.get(action, params);
+  const url = new URL(API_URL);
+  url.searchParams.set('action', action);
+  Object.entries(params).forEach(([k, v]) => url.searchParams.set(k, v));
+  try {
+    const json = await (await fetchTimeout(url.toString())).json();
+    if (!json.ok) throw Object.assign(new Error(json.error || 'Error del servidor'), { server: true });
+    return json.data;
+  } catch (err) {
+    if (reintento && !err.server) { await sleep(1000); return apiGet(action, params, false); }
+    throw err.server ? err : new Error('Sin conexión con el servidor. Intenta de nuevo.');
+  }
+}
+async function apiPost(action, payload = {}) {
+  if (DEMO) return Mock.post(action, payload);
+  let res;
+  try {
+    res = await fetchTimeout(API_URL, {
+      method: 'POST', headers: { 'Content-Type': 'text/plain;charset=utf-8' }, // evita preflight CORS
+      body: JSON.stringify({ action, payload: { token: token(), ...payload } }),
+    });
+  } catch { throw new Error('Sin conexión con el servidor. Intenta de nuevo.'); }
+  const json = await res.json();
+  if (!json.ok) throw new Error(json.error || 'Error del servidor');
+  return json.data;
+}
+const token = () => leerPref(LS_TOKEN);
+
+const TZ = 'America/El_Salvador';
+const MESES = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'];
+const DIAS = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
+const ROL_LABEL = { superadmin: 'Super admin', admin: 'Administrador', miembro: 'Miembro' };
+const haptic = () => { try { navigator.vibrate && navigator.vibrate(8); } catch {} };
+
+const VISTAS = [
+  { id: 'inicio',       nombre: 'Inicio',       icono: 'fa-solid fa-house' },
+  { id: 'programacion', nombre: 'Programación', icono: 'fa-solid fa-table-cells-large' },
+  { id: 'canciones',    nombre: 'Canciones',    icono: 'fa-solid fa-music' },
+  { id: 'equipo',       nombre: 'Equipo',       icono: 'fa-solid fa-users' },
+];
+
+// ================= Estado =================
+
+let hoy = new Intl.DateTimeFormat('en-CA', { timeZone: TZ }).format(new Date());
+
+const S = {
+  uid: null, me: null,
+  usuarios: new Map(), tipos: new Map(), canciones: new Map(), ensayos: new Map(),
+  roles: [], grupos: [],
+  proximos: [], todos: [], hoguera: false,
+  meses: new Map(), // 'YYYY-MM' -> servicios del mes
+  sel: new Map(),   // grupo (fecha_tipo) -> índice del culto elegido
+  vista: 'inicio', filtro: 'todos',
+  grid: { anio: +hoy.slice(0, 4), mes: +hoy.slice(5, 7), tipo: null, col: 0 },
+};
+
+// Formulario abierto en la hoja (estado + cómo redibujarlo)
+let F = null;
+let dibujarF = null;
+
+// ================= Utilidades =================
+
+const $ = (s) => document.querySelector(s);
+const esc = (v) => String(v ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const ic = (cls) => `<i class="${cls}"></i>`;
+const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
+
+const fechaDe = (iso) => new Date(`${iso}T12:00:00-06:00`);
+const fmt = (iso, opts) => new Intl.DateTimeFormat('es-SV', { timeZone: TZ, ...opts }).format(fechaDe(iso));
+const hora12 = (hhmm) => {
+  const [h, m] = hhmm.split(':').map(Number);
+  return `${((h + 11) % 12) + 1}:${String(m).padStart(2, '0')} ${h < 12 ? 'am' : 'pm'}`;
+};
+const sumarDias = (iso, n) => { const d = fechaDe(iso); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
+const lunesDe = (iso) => sumarDias(iso, -((fechaDe(iso).getUTCDay() + 6) % 7));
+const claveMes = (a, m) => `${a}-${String(m).padStart(2, '0')}`;
+const unirConY = (xs) => (xs.length < 2 ? xs.join('') : `${xs.slice(0, -1).join(', ')} y ${xs.at(-1)}`);
+
+// Mismos degradados que el panel de Hoguera
+const GRADIENTES = [
+  'linear-gradient(135deg, #c4532f, #f0a35e)', 'linear-gradient(135deg, #4f8fb0, #9fd3c7)',
+  'linear-gradient(135deg, #5c8a5b, #b9d58a)', 'linear-gradient(135deg, #4d8580, #86c9c2)',
+  'linear-gradient(135deg, #8e5cc4, #e491b6)', 'linear-gradient(135deg, #2f4858, #5f97b3)',
+  'linear-gradient(135deg, #e0763b, #e8c15a)', 'linear-gradient(135deg, #33658a, #86bbd8)',
+  'linear-gradient(135deg, #b5446e, #f49d6e)', 'linear-gradient(135deg, #3a7d44, #a3c98f)',
+  'linear-gradient(135deg, #6d4c9f, #7fb2e5)', 'linear-gradient(135deg, #d1495b, #edae49)',
+];
+function avatar(uid, size = 32, nombreAlt) {
+  const nombre = S.usuarios.get(uid)?.nombre ?? nombreAlt ?? '?';
+  const partes = nombre.trim().split(/\s+/);
+  const ini = ((partes[0]?.[0] ?? '') + (partes[1]?.[0] ?? partes[0]?.[1] ?? '')).toUpperCase();
+  let h = 0; for (const c of uid) h = (h * 31 + c.charCodeAt(0)) >>> 0;
+  return `<span class="av" style="--s:${size}px;background:${GRADIENTES[h % GRADIENTES.length]}" title="${esc(nombre)}">${esc(ini)}</span>`;
+}
+const nombreDe = (uid) => S.usuarios.get(uid)?.nombre ?? uid;
+const tipoColor = (tipo) => `var(--t-${tipo}, var(--lilac))`;
+const tipoNombre = (tipo) => S.tipos.get(tipo)?.nombre ?? tipo;
+const esAdmin = () => ['admin', 'superadmin'].includes(S.me?.rol);
+const esSuper = () => S.me?.rol === 'superadmin';
+const tiposOrdenados = () => [...S.tipos.keys()].sort((a, b) => S.tipos.get(a).dia - S.tipos.get(b).dia);
+
+// "Domingo", "Miércoles", "Jueves · Ministerio de Hombres", "Viernes · JTF"
+function etiquetaTipo(tipo) {
+  const t = S.tipos.get(tipo);
+  if (!t) return tipo;
+  const dia = DIAS[t.dia];
+  return /^(culto|servicio)/i.test(t.nombre) ? dia : `${dia} · ${t.nombre}`;
+}
+
+function toast(msg, err = false) {
+  const el = document.createElement('div');
+  el.className = `toast${err ? ' err' : ''}`;
+  el.innerHTML = `${ic(err ? 'fa-solid fa-exclamation' : 'fa-solid fa-check')}<span>${esc(msg)}</span>`;
+  $('#toasts').append(el);
+  setTimeout(() => { el.classList.add('out'); el.addEventListener('animationend', () => el.remove()); }, 3400);
+}
+
+// Solo enlaces http(s): evita que un "javascript:..." guardado en una canción
+// se ejecute al darle clic.
+function urlSegura(u) {
+  try {
+    const url = new URL(String(u ?? '').trim());
+    return ['http:', 'https:'].includes(url.protocol) ? url.href : null;
+  } catch { return null; }
+}
+const lineas = (txt) => String(txt ?? '').split('\n').map((l) => l.trim()).filter(Boolean);
+
+function confirmar(titulo, msg, textoSi = 'Confirmar') {
+  $('#confirm-title').textContent = titulo;
+  $('#confirm-msg').textContent = msg;
+  $('#confirm-si').textContent = textoSi;
+  $('#confirm').classList.add('on');
+  return new Promise((resolve) => {
+    const fin = (v) => { $('#confirm').classList.remove('on'); $('#confirm-si').onclick = $('#confirm-no').onclick = null; resolve(v); };
+    $('#confirm-si').onclick = () => fin(true);
+    $('#confirm-no').onclick = () => fin(false);
+  });
+}
+
+const msgError = (err) => err?.message || 'Algo salió mal. Intenta de nuevo.';
+
+const guardarPref = (k, v) => { try { localStorage.setItem(k, v); } catch {} };
+const leerPref = (k) => { try { return localStorage.getItem(k); } catch { return null; } };
+
+// Asigna obj['a.b.c'] = v (para los formularios)
+function asignarRuta(obj, ruta, v) {
+  const p = ruta.split('.');
+  let o = obj;
+  for (const k of p.slice(0, -1)) o = o[k];
+  o[p.at(-1)] = v;
+}
+
+async function conBoton(btn, tarea) {
+  if (btn?.dataset.busy) return;
+  if (btn) { btn.dataset.busy = '1'; btn.disabled = true; btn.classList.add('loading'); }
+  try { return await tarea(); }
+  catch (err) {
+    console.error(err); toast(msgError(err), true);
+    if (/Sesión inválida/.test(err.message)) salir();
+  }
+  finally { if (btn) { btn.disabled = false; btn.classList.remove('loading'); delete btn.dataset.busy; } }
+}
+document.addEventListener('pointerdown', (e) => { if (e.target.closest('button, .press, a')) haptic(); }, { passive: true });
+
+// ================= Sheet =================
+
+function openSheet(html) {
+  $('#sheet-body').innerHTML = html;
+  $('#overlay').classList.add('open');
+  $('#sheet').classList.add('open');
+  document.body.classList.add('locked');
+}
+function closeSheet() {
+  $('#overlay').classList.remove('open');
+  $('#sheet').classList.remove('open');
+  document.body.classList.remove('locked');
+  F = null; dibujarF = null;
+}
+const closeBtn = `<button class="x-btn press" data-acc="cerrar" aria-label="Cerrar">${ic('fa-solid fa-xmark')}</button>`;
+
+// Redibuja el formulario abierto conservando el scroll de la hoja
+function redibujar() {
+  if (!dibujarF) return;
+  const y = $('#sheet').scrollTop;
+  dibujarF();
+  $('#sheet').scrollTop = y;
+}
+
+// ================= Login =================
+
+const L = { paso: 'email', email: leerPref('ultimoEmail') ?? '' };
+
+function renderLoginBox() {
+  const local = DEMO ? `<p class="muted" style="margin-top:4px">${ic('fa-solid fa-circle-info')} Vista previa: usa 123456.</p>` : '';
+  const html = {
+    email: `
+      <h2 class="title-font" style="font-size:1.05rem">Entrar</h2>
+      <p class="muted">Te enviaremos un código de 6 dígitos a tu correo.</p>
+      <form class="form" data-form="pedirCodigo">
+        <label class="field"><span>Correo</span>
+          <input class="input" type="email" name="email" required autocomplete="email" value="${esc(L.email)}" placeholder="tucorreo@gmail.com"></label>
+        <button class="btn btn-primary press">${ic('fa-solid fa-paper-plane')} Enviar código</button>
+      </form>
+      <p style="text-align:center;margin-top:14px"><button class="link-btn" data-acc="loginPaso" data-paso="pin">Entrar con PIN</button></p>`,
+    codigo: `
+      <h2 class="title-font" style="font-size:1.05rem">Revisa tu correo</h2>
+      <p class="muted">Enviamos un código a <b style="color:var(--lilac)">${esc(L.email)}</b>. Vence en 10 minutos.</p>
+      ${local}
+      <form class="form" data-form="verificarCodigo">
+        <input class="input code-input" name="codigo" inputmode="numeric" autocomplete="one-time-code" maxlength="6" pattern="[0-9]{6}" required placeholder="000000">
+        <button class="btn btn-primary press">${ic('fa-solid fa-right-to-bracket')} Entrar</button>
+      </form>
+      <p style="text-align:center;margin-top:14px;display:flex;gap:18px;justify-content:center">
+        <button class="link-btn" data-acc="reenviarCodigo">Reenviar código</button>
+        <button class="link-btn" data-acc="loginPaso" data-paso="email">Cambiar correo</button>
+      </p>`,
+    pin: `
+      <h2 class="title-font" style="font-size:1.05rem">Entrar con PIN</h2>
+      <p class="muted">Solo para cuentas que tienen el PIN habilitado.</p>
+      <form class="form" data-form="loginPin">
+        <label class="field"><span>Correo</span>
+          <input class="input" type="email" name="email" required autocomplete="email" value="${esc(L.email)}"></label>
+        <label class="field"><span>PIN</span>
+          <input class="input code-input" type="password" name="pin" inputmode="numeric" maxlength="6" pattern="[0-9]{6}" required autocomplete="current-password" placeholder="••••••"></label>
+        <button class="btn btn-primary press">${ic('fa-solid fa-right-to-bracket')} Entrar</button>
+      </form>
+      <p style="text-align:center;margin-top:14px"><button class="link-btn" data-acc="loginPaso" data-paso="email">Entrar con código por correo</button></p>`,
+  }[L.paso];
+  $('#login-box').innerHTML = html;
+  $('#login-box').querySelector('input:not([value=""]), input')?.focus();
+}
+
+function renderLogin() {
+  renderLoginBox();
+}
+
+async function pedirCodigo(email) {
+  await apiPost('login_solicitar_codigo', { correo: email });
+  L.email = email; L.paso = 'codigo';
+  guardarPref('ultimoEmail', email);
+  renderLoginBox();
+  toast('Si el correo está registrado, te llegará el código.');
+}
+
+const FORMULARIOS = {
+  async pedirCodigo(datos) { await pedirCodigo(datos.get('email').trim()); },
+  async verificarCodigo(datos) {
+    const data = await apiPost('login_verificar_codigo', { correo: L.email, codigo: datos.get('codigo').trim(), dispositivo: navigator.userAgent.slice(0, 120) });
+    guardarPref(LS_TOKEN, data.token);
+    await arrancar();
+  },
+  async loginPin(datos) {
+    const email = datos.get('email').trim();
+    L.email = email; guardarPref('ultimoEmail', email);
+    const data = await apiPost('login_pin', { correo: email, pin: datos.get('pin'), dispositivo: navigator.userAgent.slice(0, 120) });
+    guardarPref(LS_TOKEN, data.token);
+    await arrancar();
+  },
+  async definirPin(datos) {
+    const pin = datos.get('pin'), pin2 = datos.get('pin2');
+    if (pin !== pin2) throw new Error('Los PIN no coinciden.');
+    await apiPost('definir_pin', { pin });
+    closeSheet();
+    toast('PIN guardado. Ya puedes entrar con él en otros dispositivos.');
+  },
+};
+
+document.addEventListener('submit', async (e) => {
+  const form = e.target.closest('[data-form]');
+  if (!form) return;
+  e.preventDefault();
+  await conBoton(form.querySelector('button:not([type=button])'), () => FORMULARIOS[form.dataset.form](new FormData(form)));
+});
+
+// ================= Carga de datos =================
+
+// Todo llega en una sola llamada (el volumen es pequeño); los meses se
+// filtran en el navegador.
+async function cargarBase() {
+  const d = await apiGet('alabanza_base', { token: token() });
+  hoy = d.hoy || hoy;
+  S.uid = d.uid;
+  S.hoguera = !!d.hoguera;
+  S.usuarios = new Map(Object.entries(d.usuarios));
+  S.tipos = new Map(Object.entries(d.tipos));
+  S.roles = [...d.roles].sort((a, b) => a.orden - b.orden);
+  S.grupos = [...d.grupos].sort((a, b) => a.orden - b.orden);
+  S.canciones = new Map(Object.entries(d.canciones));
+  S.todos = d.servicios;
+  S.ensayos = new Map(d.ensayos.map((e) => [e.id, e]));
+  S.proximos = d.servicios.filter((s) => s.fechaISO >= hoy).sort((a, b) => a.fechaISO.localeCompare(b.fechaISO) || a.hora.localeCompare(b.hora)).slice(0, 60);
+  S.me = { ...(S.usuarios.get(S.uid) ?? {}), ...d.me };
+}
+
+async function cargarMes(anio, mes) {
+  const k = claveMes(anio, mes);
+  if (!S.meses.has(k)) S.meses.set(k, S.todos.filter((s) => s.fechaISO.startsWith(k)).sort((a, b) => a.fechaISO.localeCompare(b.fechaISO)));
+  return S.meses.get(k);
+}
+
+// Después de guardar algo: recargar y redibujar la vista actual
+async function refrescar() {
+  S.meses.clear();
+  S.ensayos.clear();
+  await cargarBase();
+  renderTopbar();
+  renderInicio();
+  await irA(S.vista, { sinScroll: true });
+}
+
+const todosLosServicios = () => S.todos;
+const servicioPorId = (id) => todosLosServicios().find((s) => s.id === id);
+
+// ================= Cultos del mismo día =================
+// Cada culto es su propio documento (ej. domingo 8:00 y 10:30). En pantalla
+// se agrupan por fecha + tipo; si el equipo es idéntico se muestran como uno.
+
+const claveGrupo = (s) => `${s.fechaISO}_${s.tipo}`;
+
+function mismoEquipo(a, b) {
+  const roles = new Set([...Object.keys(a.asignaciones ?? {}), ...Object.keys(b.asignaciones ?? {})]);
+  return [...roles].every((r) =>
+    [...(a.asignaciones?.[r] ?? [])].sort().join() === [...(b.asignaciones?.[r] ?? [])].sort().join());
+}
+
+function agrupar(svcs) {
+  const m = new Map();
+  for (const s of svcs) {
+    const k = claveGrupo(s);
+    if (!m.has(k)) m.set(k, { key: k, fechaISO: s.fechaISO, tipo: s.tipo, cultos: [] });
+    m.get(k).cultos.push(s);
+  }
+  return [...m.values()].map((g) => {
+    g.cultos.sort((a, b) => a.hora.localeCompare(b.hora));
+    g.iguales = g.cultos.every((c) => mismoEquipo(c, g.cultos[0]));
+    g.participantes = [...new Set(g.cultos.flatMap((c) => c.participantes ?? []))];
+    return g;
+  }).sort((a, b) => a.fechaISO.localeCompare(b.fechaISO) || a.cultos[0].hora.localeCompare(b.cultos[0].hora));
+}
+
+const grupoPorClave = (k) => agrupar(todosLosServicios().filter((s) => claveGrupo(s) === k))[0];
+const horasDe = (cultos) => unirConY(cultos.map((c) => hora12(c.hora)));
+const cultoSel = (g) => g.cultos[Math.min(S.sel.get(g.key) ?? 0, g.cultos.length - 1)];
+
+// Persona que sirve en el culto elegido pero no en algún otro del mismo día
+function soloEn(g, svc, rolId, uid) {
+  if (g.iguales) return null;
+  const falta = g.cultos.some((o) => o !== svc && !(o.asignaciones?.[rolId] ?? []).includes(uid));
+  return falta ? `Solo ${hora12(svc.hora)}` : null;
+}
+
+// Selector 8:00 / 10:30 + etiqueta de variación
+function selectorCultos(g, { conNombre = true } = {}) {
+  const nombre = conNombre ? `${esc(tipoNombre(g.tipo))} · ` : '';
+  if (g.cultos.length === 1) return `${nombre}${hora12(g.cultos[0].hora)}`;
+  if (g.iguales) return `${nombre}${horasDe(g.cultos)}`;
+  const actual = cultoSel(g);
+  return `
+    <span class="seg" role="tablist">${g.cultos.map((c, i) =>
+      `<button class="${c === actual ? 'on' : ''}" data-acc="elegirCulto" data-grupo="${g.key}" data-i="${i}">${hora12(c.hora)}</button>`).join('')}
+    </span>
+    <span class="badge badge-var">${ic('fa-solid fa-shuffle')} Variación</span>`;
+}
+
+// ================= Helpers de servicio =================
+
+const rolesDeTipo = (tipo) => S.roles.filter((r) => (S.tipos.get(tipo)?.roles ?? []).includes(r.id));
+const rolesDe = (svc, uid) => S.roles.filter((r) => (svc.asignaciones?.[r.id] ?? []).includes(uid)).map((r) => r.nombre);
+
+function ensayoTexto(svc) {
+  const e = svc.ensayoId && S.ensayos.get(svc.ensayoId);
+  if (!e) return null;
+  if (e.estado === 'cancelado') return 'Ensayo cancelado';
+  return `Ensayo ${fmt(e.fechaISO, { weekday: 'short', day: 'numeric' }).replace('.', '')} · ${hora12(e.hora)}`;
+}
+
+// ================= Navegación =================
+
+function renderNav() {
+  const btn = (v, cls) => `<button class="${cls} press ${S.vista === v.id ? 'active' : ''}" data-acc="vista" data-vista="${v.id}" title="${v.nombre}">`;
+  $('#side-nav').innerHTML = VISTAS.map((v) => `${btn(v, 'side-link')}${ic(v.icono)}<span>${v.nombre}</span></button>`).join('');
+  $('#mobile-nav').innerHTML = VISTAS.map((v) => `${btn(v, 'm-nav-btn')}<span class="m-nav-icon">${ic(v.icono)}</span><span class="sr">${v.nombre}</span></button>`).join('');
+}
+
+async function irA(vista, { sinScroll = false } = {}) {
+  S.vista = vista;
+  guardarPref('vista', vista);
+  renderNav();
+  document.querySelectorAll('[data-view]').forEach((el) => el.classList.toggle('hidden', el.dataset.view !== vista));
+  if (!sinScroll) window.scrollTo({ top: 0 });
+  const fab = { inicio: 'Agregar culto', programacion: 'Agregar culto', canciones: 'Agregar canción', equipo: 'Agregar persona' }[vista];
+  $('#fab').setAttribute('aria-label', fab);
+  $('#fab').title = fab;
+  if (vista === 'programacion') await renderGrid();
+  if (vista === 'canciones') renderCanciones();
+  if (vista === 'equipo') renderEquipo();
+}
+
+$('#sidebar-toggle').addEventListener('click', () => {
+  const on = $('#app').classList.toggle('colapsado');
+  guardarPref('sidebar', on ? '1' : '0');
+});
+
+function cerrarMenu() { $('#user-menu').classList.remove('on'); }
+$('#user-chip').addEventListener('click', (e) => { e.stopPropagation(); $('#user-menu').classList.toggle('on'); });
+
+// ================= Inicio =================
+
+function renderTopbar() {
+  const me = S.me;
+  $('#user-av').innerHTML = avatar(S.uid, 40);
+  $('#user-hola').textContent = `Hola, ${me.nombre.split(' ')[0]}`;
+  $('#user-rol').textContent = [ROL_LABEL[me.rol] ?? me.rol, me.etiqueta].filter(Boolean).join(' · ');
+  $('#fab').classList.toggle('hidden', !esAdmin());
+  $('#menu-hoguera').classList.toggle('hidden', !S.hoguera);
+  // El super admin no sirve en roles: no tiene "Te toca servir"
+  $('#panel-mine').classList.toggle('hidden', !(me.rolesServicio ?? []).length);
+}
+
+function renderInicio() {
+  const grupos = agrupar(S.proximos);
+
+  const mios = grupos.filter((g) => g.participantes.includes(S.uid));
+  $('#mine-count').textContent = mios.length ? `${mios.length} próximos` : '';
+  $('#mine').innerHTML = mios.length ? mios.map((g) => {
+    const enLosQue = g.cultos.filter((c) => c.participantes?.includes(S.uid));
+    const roles = [...new Set(enLosQue.flatMap((c) => rolesDe(c, S.uid)))];
+    const ens = ensayoTexto(g.cultos[0]);
+    return `
+    <button class="mine-card press" style="--tipo:${tipoColor(g.tipo)}" data-acc="verGrupo" data-grupo="${g.key}">
+      <div class="mine-when">${esc(fmt(g.fechaISO, { weekday: 'long', day: 'numeric', month: 'short' }).replace('.', ''))}</div>
+      <div class="mine-what">${esc(tipoNombre(g.tipo))} · ${horasDe(enLosQue)}</div>
+      <div class="mine-roles">${roles.map((r) => `<span class="badge badge-gold">${esc(r)}</span>`).join('')}</div>
+      <div class="mine-ens">${ens ? `${ic('fa-solid fa-guitar')} ${esc(ens)}` : `${ic('fa-regular fa-circle')} Sin ensayo`}</div>
+    </button>`;
+  }).join('') : `<div class="empty">No tienes servicios asignados en las próximas semanas.</div>`;
+
+  $('#filters').innerHTML = [
+    `<button class="tab press ${S.filtro === 'todos' ? 'active' : ''}" data-acc="filtro" data-f="todos">Todos</button>`,
+    ...tiposOrdenados().map((id) => `<button class="tab press ${S.filtro === id ? 'active' : ''}" data-acc="filtro" data-f="${id}" style="--c:${tipoColor(id)}"><span class="dot"></span>${esc(tipoNombre(id))}</button>`),
+  ].join('');
+
+  const lista = grupos.filter((g) => S.filtro === 'todos' || g.tipo === S.filtro);
+  if (!lista.length) {
+    $('#list').innerHTML = `<div class="empty">No hay servicios programados.${esAdmin() ? ' Agrega uno con el botón +.' : ''}</div>`;
+    return;
+  }
+  const semanas = new Map();
+  for (const g of lista) {
+    const k = lunesDe(g.fechaISO);
+    if (!semanas.has(k)) semanas.set(k, []);
+    semanas.get(k).push(g);
+  }
+  $('#list').innerHTML = [...semanas.entries()].map(([lunes, gs]) => `
+    <div class="week-label">Semana del ${esc(fmt(lunes, { day: 'numeric', month: 'long' }))}</div>
+    <div class="rows">${gs.map(rowGrupo).join('')}</div>
+  `).join('');
+}
+
+function rowGrupo(g) {
+  const mine = g.participantes.includes(S.uid);
+  const dirige = [...new Set(g.cultos.flatMap((c) => c.asignaciones?.dirige ?? []))].map(nombreDe).join(', ');
+  const ens = ensayoTexto(g.cultos[0]);
+  const gente = g.participantes;
+  const max = matchMedia('(max-width: 480px)').matches ? 3 : 5;
+  return `
+  <button class="row press" style="--tipo:${tipoColor(g.tipo)}" data-acc="verGrupo" data-grupo="${g.key}">
+    <span class="datebox">
+      <span class="dow">${esc(fmt(g.fechaISO, { weekday: 'short' }).replace('.', ''))}</span>
+      <span class="num">${esc(fmt(g.fechaISO, { day: 'numeric' }))}</span>
+    </span>
+    <span class="row-main">
+      <span class="row-title">${esc(tipoNombre(g.tipo))}
+        ${mine ? '<span class="badge badge-gold">Tú</span>' : ''}
+        ${g.iguales ? '' : `<span class="badge badge-var">${ic('fa-solid fa-shuffle')} Variación</span>`}</span>
+      <span class="row-sub">${horasDe(g.cultos)}${dirige ? ` · Dirige ${esc(dirige)}` : ''}</span>
+      ${ens ? `<span class="row-sub">${ic('fa-solid fa-guitar')}${esc(ens)}</span>` : ''}
+    </span>
+    <span class="stack">
+      ${gente.slice(0, max).map((u) => avatar(u)).join('')}
+      ${gente.length > max ? `<span class="av more" style="--s:28px">+${gente.length - max}</span>` : ''}
+    </span>
+  </button>`;
+}
+
+// ================= Programación (cuadrícula) =================
+
+function personaHTML(uid, size = 22, tag = null) {
+  return `<div class="p ${uid === S.uid ? 'me' : ''}">${avatar(uid, size)}<span class="nombre">${esc(nombreDe(uid))}</span>${
+    tag ? `<span class="solo-tag">${esc(tag)}</span>` : ''}</div>`;
+}
+
+// Contenido de una celda: un grupo de roles (Dirige / Voces / Músicos) en
+// el culto elegido de ese día
+function celdaGrupo(g, grupo) {
+  const s = cultoSel(g);
+  const tipo = S.tipos.get(s.tipo);
+  const roles = rolesDeTipo(s.tipo).filter((r) => r.grupo === grupo.id);
+  if (!roles.length) return '<span class="vacio">No aplica</span>';
+  const add = (txt) => esAdmin() ? `<button class="rc-add" data-acc="editarServicio" data-id="${s.id}">+ ${txt}</button>` : '';
+  const persona = (r, u) => personaHTML(u, 22, soloEn(g, s, r.id, u));
+
+  if (grupo.id === 'musicos') {
+    const asignados = roles.filter((r) => (s.asignaciones?.[r.id] ?? []).length);
+    // Jueves de hombres: solo un instrumento, no listar los vacíos
+    const mostrar = tipo?.maxInstrumentos && asignados.length >= tipo.maxInstrumentos ? asignados : roles;
+    return mostrar.map((r) => {
+      const ids = s.asignaciones?.[r.id] ?? [];
+      return `<div class="inst"><span class="inst-lbl">${esc(r.nombre)}</span>${
+        ids.length ? ids.map((u) => persona(r, u)).join('') : `<span class="vacio">Sin asignar</span>${add('Asignar')}`
+      }</div>`;
+    }).join('');
+  }
+
+  const pares = roles.flatMap((r) => (s.asignaciones?.[r.id] ?? []).map((u) => [r, u]));
+  const max = roles.reduce((n, r) => n + (r.max ?? 1), 0);
+  return (pares.length ? pares.map(([r, u]) => persona(r, u)).join('') : '<span class="vacio">Sin asignar</span>')
+    + (pares.length < max ? add(pares.length ? 'Agregar otro' : 'Asignar') : '');
+}
+
+async function renderGrid() {
+  const g = S.grid;
+  $('#month-label').textContent = `${MESES[g.mes - 1]} ${g.anio}`;
+  if (!S.meses.has(claveMes(g.anio, g.mes))) {
+    $('#grid-wrap').innerHTML = $('#grid-mobile').innerHTML = '<div class="empty">Cargando…</div>';
+  }
+  try {
+    await cargarMes(g.anio, g.mes);
+  } catch (err) {
+    console.error(err);
+    $('#grid-wrap').innerHTML = $('#grid-mobile').innerHTML = '<div class="empty">No se pudo cargar la programación.</div>';
+    return;
+  }
+  dibujarGrid();
+}
+
+function dibujarGrid() {
+  const g = S.grid;
+  const tipos = tiposOrdenados();
+  if (!g.tipo || !tipos.includes(g.tipo)) g.tipo = tipos[0];
+  $('#grid-tabs').innerHTML = tipos.map((t) =>
+    `<button class="tab press ${t === g.tipo ? 'active' : ''}" data-acc="gridTipo" data-tipo="${t}" style="--c:${tipoColor(t)}"><span class="dot"></span>${esc(etiquetaTipo(t))}</button>`
+  ).join('');
+
+  // Una columna por fecha; los cultos del mismo día van dentro de la misma columna
+  const dias = agrupar((S.meses.get(claveMes(g.anio, g.mes)) ?? []).filter((s) => s.tipo === g.tipo));
+  if (!dias.length) {
+    const msg = `<div class="empty">No hay servicios de "${esc(etiquetaTipo(g.tipo))}" este mes.${
+      esAdmin() ? `<br><br><button class="btn btn-outline press" data-acc="nuevoServicio" data-tipo="${g.tipo}">${ic('fa-solid fa-plus')} Agregar culto</button>` : ''}</div>`;
+    $('#grid-wrap').innerHTML = $('#grid-mobile').innerHTML = msg;
+    return;
+  }
+
+  // Escritorio: tabla
+  const scroll = $('#grid-wrap').scrollLeft;
+  const col = (i) => (i % 2 ? 'col-b' : 'col-a');
+  const filaFechas = dias.map((d, i) => `<th class="${col(i)}">${esc(fmt(d.fechaISO, { weekday: 'long', day: '2-digit', month: 'long' }))}</th>`).join('');
+  const filaSub = dias.map((d, i) => {
+    const ens = ensayoTexto(d.cultos[0]);
+    const multi = d.cultos.length > 1 && !d.iguales;
+    return `<th class="sub ${col(i)}"><div class="sub-stack">
+      <button data-acc="verGrupo" data-grupo="${d.key}">${multi ? esc(tipoNombre(d.tipo)) : selectorCultos(d)}</button>
+      ${multi ? `<div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;justify-content:center">${selectorCultos(d, { conNombre: false })}</div>` : ''}
+      ${ens ? `<div class="sub-ens">${ic('fa-solid fa-guitar')} ${esc(ens)}</div>` : ''}
+    </div></th>`;
+  }).join('');
+  const filas = S.grupos.map((gr) => `
+    <tr>
+      <td class="rol-col" style="--g:var(--g-${gr.id}, var(--lilac))"><span class="g-dot"></span>${esc(gr.nombre)}</td>
+      ${dias.map((d, i) => `<td class="cell ${col(i)}">${celdaGrupo(d, gr)}</td>`).join('')}
+    </tr>`).join('') + `
+    <tr>
+      <td class="rol-col" style="--g:var(--g-programa)"><span class="g-dot"></span>Programa</td>
+      ${dias.map((d, i) => `<td class="cell ${col(i)}">${celdaPrograma(d)}</td>`).join('')}
+    </tr>`;
+  $('#grid-wrap').innerHTML = `
+    <table class="grid">
+      <thead>
+        <tr><th rowspan="2" class="rol-col">Rol</th>${filaFechas}</tr>
+        <tr>${filaSub}</tr>
+      </thead>
+      <tbody>${filas}</tbody>
+    </table>`;
+  $('#grid-wrap').scrollLeft = scroll;
+
+  // Móvil: un día a la vez
+  if (g.col >= dias.length) g.col = 0;
+  const d = dias[g.col];
+  const ens = ensayoTexto(d.cultos[0]);
+  const multi = d.cultos.length > 1 && !d.iguales;
+  $('#grid-mobile').innerHTML = `
+    <div class="stepper">
+      <button class="circle-btn press" data-acc="gridCol" data-dir="-1" aria-label="Anterior">${ic('fa-solid fa-chevron-left')}</button>
+      <button class="stepper-info" data-acc="verGrupo" data-grupo="${d.key}">
+        <div class="stepper-fecha">${esc(fmt(d.fechaISO, { weekday: 'long', day: '2-digit', month: 'long' }))}</div>
+        <div class="stepper-evento">${multi ? esc(tipoNombre(d.tipo)) : selectorCultos(d)}</div>
+      </button>
+      <button class="circle-btn press" data-acc="gridCol" data-dir="1" aria-label="Siguiente">${ic('fa-solid fa-chevron-right')}</button>
+    </div>
+    <div class="stepper-pos">${g.col + 1} / ${dias.length}${ens ? ` · ${esc(ens)}` : ''}</div>
+    ${multi ? `<div style="display:flex;gap:8px;justify-content:center;align-items:center;margin:-4px 0 14px">${selectorCultos(d, { conNombre: false })}</div>` : ''}
+    ${S.grupos.map((gr) => `
+      <div class="m-group" style="--g:var(--g-${gr.id}, var(--lilac))">
+        <div class="m-group-label"><span class="g-dot"></span>${esc(gr.nombre)}</div>
+        <div class="cell">${celdaGrupo(d, gr)}</div>
+      </div>`).join('')}
+    <div class="m-group" style="--g:var(--g-programa)">
+      <div class="m-group-label"><span class="g-dot"></span>Programa</div>
+      <div class="cell">${celdaPrograma(d)}</div>
+    </div>
+  `;
+}
+
+// Lista compacta de canciones del culto elegido, con accesos para ver/editar
+function celdaPrograma(d) {
+  const s = cultoSel(d);
+  const items = [...(s.programa ?? [])].sort((a, b) => a.orden - b.orden);
+  const lista = items.length
+    ? `<ol class="prog-mini">${items.map((it) => {
+        const c = S.canciones.get(it.cancionId);
+        const tono = it.tono || c?.tono;
+        return `<li><span class="nombre">${esc(c?.titulo ?? '(canción eliminada)')}</span>${tono ? `<span class="prog-tono">${esc(tono)}</span>` : ''}${it.dirige ? `<span class="muted"> · ${esc(nombreCorto(it.dirige))}</span>` : ''}</li>`;
+      }).join('')}</ol>`
+    : '<span class="vacio">Sin programa</span>';
+  const acciones = [
+    items.length ? `<button class="rc-add" data-acc="verPrograma" data-id="${s.id}">${ic('fa-solid fa-list-ol')} Ver</button>` : '',
+    esAdmin() ? `<button class="rc-add" data-acc="editarPrograma" data-id="${s.id}">${ic('fa-solid fa-pen')} ${items.length ? 'Editar' : 'Armar programa'}</button>` : '',
+  ].filter(Boolean).join('');
+  return `${lista}${acciones ? `<div style="display:flex;gap:12px">${acciones}</div>` : ''}`;
+}
+
+// ================= Canciones =================
+
+function renderCanciones() {
+  const q = ($('#song-search').value ?? '').trim().toLowerCase();
+  const lista = [...S.canciones.entries()]
+    .filter(([, c]) => (!c.archivada || esAdmin()) && (!q || `${c.titulo} ${c.artista}`.toLowerCase().includes(q)))
+    .sort((a, b) => (!!a[1].archivada - !!b[1].archivada) || a[1].titulo.localeCompare(b[1].titulo, 'es'));
+  $('#song-list').innerHTML = lista.length ? lista.map(([id, c]) => {
+    const sec = c.tieneSecuencia && urlSegura(c.secuenciaUrl);
+    const ref = (c.refs ?? []).map(urlSegura).find(Boolean);
+    return `
+    <div class="song-row clickable press" data-acc="verCancion" data-id="${id}" style="${c.archivada ? 'opacity:.5' : ''}">
+      <span class="song-icon">${ic('fa-solid fa-music')}</span>
+      <span class="row-main">
+        <span class="row-title">${esc(c.titulo)} ${c.archivada ? '<span class="badge">Archivada</span>' : ''}</span>
+        <span class="row-sub">${esc(c.artista ?? '')}</span>
+        <span class="song-tags">
+          <span class="badge badge-gold">Tono ${esc(c.tono || '—')}</span>
+          ${c.tieneSecuencia ? '<span class="badge badge-ok">Con secuencia</span>' : '<span class="badge">Sin secuencia</span>'}
+          ${(c.secciones ?? []).length ? `<span class="badge">${ic('fa-solid fa-guitar')} Acordes</span>` : ''}
+          ${variacionesDe(c).length ? `<span class="badge">${ic('fa-solid fa-microphone')} ${variacionesDe(c).map(([u, t]) => `${esc(nombreCorto(u))} ${esc(t)}`).join(' · ')}</span>` : ''}
+        </span>
+      </span>
+      <span class="actions">
+        ${sec ? `<a class="circle-btn press" href="${esc(sec)}" target="_blank" rel="noopener noreferrer" title="Descargar secuencia" data-acc="enlace">${ic('fa-solid fa-download')}</a>` : ''}
+        ${ref ? `<a class="circle-btn press" href="${esc(ref)}" target="_blank" rel="noopener noreferrer" title="Referencia" data-acc="enlace">${ic('fa-solid fa-play')}</a>` : ''}
+      </span>
+    </div>`;
+  }).join('') : `<div class="empty">No se encontraron canciones.${esAdmin() ? ' Agrega una con el botón +.' : ''}</div>`;
+}
+$('#song-search').addEventListener('input', renderCanciones);
+
+// ================= Equipo =================
+
+function renderEquipo() {
+  const visibles = [...S.usuarios.entries()].filter(([, u]) => u.activo || esAdmin());
+  $('#team-count').textContent = `${visibles.filter(([, u]) => u.activo && u.categoria).length} activos`;
+  const secciones = [['voz', 'Voces'], ['musico', 'Músicos'], [null, 'Administración']];
+  $('#team-list').innerHTML = secciones.map(([cat, titulo]) => {
+    const gente = visibles.filter(([, u]) => (u.categoria ?? null) === cat).sort((a, b) => a[1].nombre.localeCompare(b[1].nombre, 'es'));
+    if (!gente.length) return '';
+    return `<div class="team-group">${titulo}</div><div class="rows">${gente.map(([id, u]) => `
+      <div class="team-row ${esAdmin() && !u.cuenta ? 'clickable press' : ''}" ${esAdmin() && !u.cuenta ? `data-acc="editarPersona" data-id="${id}"` : ''} style="${u.activo ? '' : 'opacity:.5'}">
+        ${avatar(id, 40)}
+        <span class="row-main">
+          <span class="row-title">${esc(u.nombre)}
+            ${u.rol !== 'miembro' ? `<span class="badge badge-gold">${esc(ROL_LABEL[u.rol] ?? u.rol)}</span>` : ''}
+            ${u.activo ? '' : '<span class="badge">Inactivo</span>'}
+            ${u.nombrePendiente ? '<span class="badge badge-var">Nombre pendiente</span>' : ''}
+            ${esAdmin() && !u.email && !u.cuenta ? '<span class="badge">Sin correo</span>' : ''}</span>
+          <span class="row-sub">${esc(u.etiqueta ?? '')}</span>
+          <span class="team-roles">${S.roles.filter((r) => (u.rolesServicio ?? []).includes(r.id)).map((r) => `<span class="badge">${esc(r.nombre)}</span>`).join('')}</span>
+        </span>
+        <span style="color:var(--lilac-dim)">${esAdmin() && !u.cuenta ? ic('fa-solid fa-pen') : ''}</span>
+      </div>`).join('')}</div>`;
+  }).join('');
+}
+
+// ================= Detalle de un día =================
+
+// Muestra un día (uno o varios cultos). Con variación, el selector cambia de culto.
+function verGrupo(key) {
+  const g = grupoPorClave(key);
+  if (!g) return;
+  const s = cultoSel(g);
+  const tipo = S.tipos.get(s.tipo);
+  const roles = rolesDeTipo(s.tipo);
+  const ens = ensayoTexto(g.cultos[0]);
+  const nCanciones = s.programa?.length ?? 0;
+  const multi = g.cultos.length > 1;
+
+  const grupos = S.grupos.map((gr) => {
+    const rs = roles.filter((r) => r.grupo === gr.id);
+    if (!rs.length) return '';
+    return `
+    <div class="d-group">
+      <div class="d-group-label" style="--g:var(--g-${gr.id}, var(--lilac))"><span class="g-dot"></span>${esc(gr.nombre)}</div>
+      ${rs.map((r) => {
+        const ids = s.asignaciones?.[r.id] ?? [];
+        if (!ids.length && tipo?.maxInstrumentos && gr.id === 'musicos') return '';
+        return `
+        <div class="d-item">
+          <div class="d-role">${esc(r.nombre)}</div>
+          <div class="people">${ids.length
+            ? ids.map((u) => {
+                const tag = soloEn(g, s, r.id, u);
+                return `<div class="person ${u === S.uid ? 'me' : ''}">${avatar(u, 28)}${esc(nombreDe(u))}${tag ? `<span class="solo-tag">${esc(tag)}</span>` : ''}</div>`;
+              }).join('')
+            : '<span class="vacio">Sin asignar</span>'}</div>
+        </div>`;
+      }).join('')}
+    </div>`;
+  }).join('');
+
+  const ensBadge = ens
+    ? (esAdmin()
+      ? `<button class="badge press" data-acc="editarEnsayo" data-id="${g.cultos[0].ensayoId}">${ic('fa-solid fa-guitar')} ${esc(ens)} ${ic('fa-solid fa-pen')}</button>`
+      : `<span class="badge">${ic('fa-solid fa-guitar')} ${esc(ens)}</span>`)
+    : '<span class="badge">Sin ensayo</span>';
+
+  openSheet(`
+    <div class="sheet-head">
+      <div>
+        <h3 class="title-font" style="color:${tipoColor(s.tipo)}">${esc(tipoNombre(s.tipo))}</h3>
+        <div class="meta">${esc(cap(fmt(s.fechaISO, { weekday: 'long', day: 'numeric', month: 'long' })))} · ${
+          multi && !g.iguales ? hora12(s.hora) : horasDe(g.cultos)}</div>
+      </div>
+      ${closeBtn}
+    </div>
+    <div class="info-strip">
+      ${multi && !g.iguales ? selectorCultos(g, { conNombre: false }) : ''}
+      ${multi && g.iguales ? `<span class="badge badge-ok">${ic('fa-solid fa-check')} Mismo equipo en ambos cultos</span>` : ''}
+      ${ensBadge}
+      ${tipo?.maxInstrumentos ? `<span class="badge">Solo ${tipo.maxInstrumentos} instrumento</span>` : ''}
+    </div>
+    ${grupos}
+    ${s.notas ? `<p style="color:var(--lilac);margin-top:14px">${esc(s.notas)}</p>` : ''}
+    <div class="sheet-actions ${esAdmin() && !multi ? 'two' : ''}">
+      <button class="btn btn-primary press" data-acc="verPrograma" data-id="${s.id}" ${nCanciones || esAdmin() ? '' : 'disabled style="opacity:.5"'}>
+        ${ic('fa-solid fa-list-ol')} ${nCanciones ? `Ver programa (${nCanciones})` : esAdmin() ? 'Armar programa' : 'Sin programa'}
+      </button>
+      ${esAdmin() && !multi ? `<button class="btn btn-outline press" data-acc="editarServicio" data-id="${s.id}">${ic('fa-solid fa-pen')} Editar</button>` : ''}
+    </div>
+    ${esAdmin() && multi ? `
+      <div class="sheet-actions two" style="margin-top:10px">
+        ${g.cultos.map((c) => `<button class="btn btn-outline press" data-acc="editarServicio" data-id="${c.id}">${ic('fa-solid fa-pen')} Editar ${hora12(c.hora)}</button>`).join('')}
+      </div>` : ''}
+  `);
+}
+
+function verPrograma(id) {
+  const s = servicioPorId(id);
+  if (!s) return;
+  const items = [...(s.programa ?? [])].sort((a, b) => a.orden - b.orden);
+  openSheet(`
+    <div class="sheet-head">
+      <div>
+        <h3 class="title-font">Programa</h3>
+        <div class="meta">${esc(tipoNombre(s.tipo))} · ${esc(fmt(s.fechaISO, { weekday: 'long', day: 'numeric', month: 'short' }))} · ${hora12(s.hora)}</div>
+      </div>
+      ${closeBtn}
+    </div>
+    <div style="margin-top:6px">
+      ${items.length ? items.map((it, i) => {
+        const c = S.canciones.get(it.cancionId) ?? { titulo: '(canción eliminada)' };
+        const refs = [...(c.refs ?? []), ...(it.refs ?? [])].map(urlSegura).filter(Boolean);
+        const sec = c.tieneSecuencia && urlSegura(c.secuenciaUrl);
+        const bloque = it.bloque && it.bloque !== items[i - 1]?.bloque ? `<div class="bloque-label">Bloque ${esc(it.bloque)}</div>` : '';
+        return `${bloque}
+        <div class="song">
+          <div class="song-n">${i + 1}</div>
+          <div>
+            <button class="song-title song-open" data-acc="verCancion" data-id="${it.cancionId}" data-tono="${esc(it.tono || '')}" data-svc="${s.id}">
+              ${esc(c.titulo)} ${ic('fa-solid fa-chevron-right')}</button>
+            ${c.artista ? `<div class="song-artist">${esc(c.artista)}</div>` : ''}
+            <div class="song-tags">
+              <span class="badge badge-gold">Tono ${esc(it.tono || c.tono || '—')}</span>
+              ${it.nota ? `<span class="badge badge-var">${esc(it.nota)}</span>` : ''}
+              ${c.tieneSecuencia ? '<span class="badge badge-ok">Con secuencia</span>' : '<span class="badge">Sin secuencia</span>'}
+              ${(c.secciones ?? []).length ? `<span class="badge">${ic('fa-solid fa-guitar')} Acordes</span>` : ''}
+            </div>
+            ${it.dirige ? `<div class="quien">${avatar(it.dirige, 22)}Dirige ${esc(nombreDe(it.dirige))}</div>` : ''}
+            ${variacionesDe(c).length ? `<div class="muted" style="margin-top:6px">${ic('fa-solid fa-microphone')} ${
+              variacionesDe(c).map(([u, t]) => `${esc(nombreCorto(u))} ${esc(t)}`).join(' · ')}</div>` : ''}
+            <div class="song-links">
+              ${sec ? `<a href="${esc(sec)}" target="_blank" rel="noopener noreferrer">${ic('fa-solid fa-download')} Secuencia</a>` : ''}
+              ${refs.map((u, j) => `<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${ic('fa-solid fa-play')} Referencia${refs.length > 1 ? ` ${j + 1}` : ''}</a>`).join('')}
+            </div>
+          </div>
+        </div>`;
+      }).join('') : '<div class="empty">Este culto todavía no tiene programa.</div>'}
+    </div>
+    <div class="sheet-actions ${esAdmin() ? 'two' : ''}">
+      <button class="btn btn-outline press" data-acc="verGrupo" data-grupo="${claveGrupo(s)}">${ic('fa-solid fa-arrow-left')} Volver</button>
+      ${esAdmin() ? `<button class="btn btn-primary press" data-acc="editarPrograma" data-id="${s.id}">${ic('fa-solid fa-pen')} Editar programa</button>` : ''}
+    </div>
+  `);
+}
+
+// ================= Editor: culto =================
+
+// Próxima fecha (desde hoy) que cae en el día de ese tipo de servicio
+function proximaFecha(tipo) {
+  const dia = S.tipos.get(tipo)?.dia ?? 0;
+  let f = hoy;
+  while (fechaDe(f).getUTCDay() !== dia) f = sumarDias(f, 1);
+  return f;
+}
+
+function editarServicio(id, preset = {}) {
+  const s = id ? servicioPorId(id) : null;
+  const tipo = s?.tipo ?? preset.tipo ?? (S.vista === 'programacion' ? S.grid.tipo : null) ?? tiposOrdenados()[0];
+  F = {
+    tipoForm: 'servicio',
+    idOriginal: s?.id ?? null,
+    fechaISO: s?.fechaISO ?? preset.fechaISO ?? proximaFecha(tipo),
+    tipo,
+    hora: s?.hora ?? S.tipos.get(tipo)?.horarios?.[0] ?? '19:00',
+    notas: s?.notas ?? '',
+    asignaciones: structuredClone(s?.asignaciones ?? {}),
+    programa: s?.programa ?? [],
+    ambos: !s,
+    todos: false,
+  };
+  dibujarF = dibujarEditorServicio;
+  dibujarF();
+}
+
+// Personas que pueden cubrir un rol (o todo el equipo activo de esa categoría)
+function candidatos(rol) {
+  return [...S.usuarios.entries()]
+    .filter(([, u]) => u.activo && (F.todos ? u.categoria === rol.categoria : (u.rolesServicio ?? []).includes(rol.id)))
+    .sort((a, b) => a[1].nombre.localeCompare(b[1].nombre, 'es'));
+}
+
+function dibujarEditorServicio() {
+  const t = S.tipos.get(F.tipo);
+  const horarios = [...new Set([...(t?.horarios ?? []), F.hora])].sort();
+  const nuevo = !F.idOriginal;
+  const otros = todosLosServicios().filter((o) => o.fechaISO === F.fechaISO && o.tipo === F.tipo && o.id !== F.idOriginal);
+  const musicos = rolesDeTipo(F.tipo).filter((r) => r.grupo === 'musicos');
+  const nMusicos = musicos.filter((r) => (F.asignaciones[r.id] ?? []).length).length;
+
+  const picks = S.grupos.map((gr) => {
+    const rs = rolesDeTipo(F.tipo).filter((r) => r.grupo === gr.id);
+    if (!rs.length) return '';
+    return `
+    <div class="d-group">
+      <div class="d-group-label" style="--g:var(--g-${gr.id}, var(--lilac))"><span class="g-dot"></span>${esc(gr.nombre)}</div>
+      ${rs.map((r) => {
+        const sel = F.asignaciones[r.id] ?? [];
+        const lleno = sel.length >= (r.max ?? 1);
+        const bloqueoInst = t?.maxInstrumentos && r.grupo === 'musicos' && !sel.length && nMusicos >= t.maxInstrumentos;
+        const lista = candidatos(r);
+        for (const u of sel) if (!lista.some(([id]) => id === u)) lista.unshift([u, S.usuarios.get(u) ?? { nombre: u }]);
+        return `
+        <div class="pick-role">
+          <div class="pick-head"><b>${esc(r.nombre)}</b><small>${sel.length}/${r.max ?? 1}</small></div>
+          <div class="pick-list">${lista.length ? lista.map(([uid, u]) => {
+            const on = sel.includes(uid);
+            return `<button type="button" class="pick press ${on ? 'on' : ''}" data-acc="togglePick" data-rol="${r.id}" data-uid="${uid}"
+              ${!on && (lleno || bloqueoInst) ? 'disabled' : ''}>${avatar(uid, 24)}${esc(u.nombre)}</button>`;
+          }).join('') : '<span class="vacio">Nadie tiene este rol todavía. Actívalo en Equipo o usa "Mostrar a todo el equipo".</span>'}</div>
+        </div>`;
+      }).join('')}
+    </div>`;
+  }).join('');
+
+  openSheet(`
+    <div class="sheet-head">
+      <div>
+        <h3 class="title-font">${nuevo ? 'Nuevo culto' : 'Editar culto'}</h3>
+        <div class="meta">${esc(tipoNombre(F.tipo))}${F.fechaISO ? ` · ${esc(fmt(F.fechaISO, { weekday: 'long', day: 'numeric', month: 'long' }))}` : ''}</div>
+      </div>
+      ${closeBtn}
+    </div>
+    <div class="form">
+      <div class="row-2">
+        <label class="field"><span>Fecha</span><input class="input" type="date" data-bind="fechaISO" data-rerender value="${esc(F.fechaISO)}"></label>
+        <label class="field"><span>Tipo de culto</span>
+          <select class="select" data-bind="tipo" data-rerender>${tiposOrdenados().map((tp) =>
+            `<option value="${tp}" ${tp === F.tipo ? 'selected' : ''}>${esc(etiquetaTipo(tp))}</option>`).join('')}</select></label>
+      </div>
+      ${nuevo && (t?.horarios?.length ?? 0) > 1 ? `
+        <label class="switch"><span>Crear ${t.horarios.length} cultos (${esc(horasDe(t.horarios.map((h) => ({ hora: h }))))}) con este equipo<br><small class="muted">Luego puedes cambiar a alguien en uno de ellos.</small></span>
+          <input type="checkbox" data-bind="ambos" data-rerender ${F.ambos ? 'checked' : ''}><span class="track"></span></label>` : ''}
+      ${!(nuevo && F.ambos && (t?.horarios?.length ?? 0) > 1) ? `
+        <label class="field"><span>Hora</span>
+          <select class="select" data-bind="hora">${horarios.map((h) => `<option value="${h}" ${h === F.hora ? 'selected' : ''}>${hora12(h)}</option>`).join('')}</select></label>` : ''}
+      ${otros.length && Object.keys(otros[0].asignaciones ?? {}).length ? `
+        <button type="button" class="btn btn-outline press" data-acc="copiarEquipo" data-id="${otros[0].id}">${ic('fa-solid fa-copy')} Copiar equipo de las ${hora12(otros[0].hora)}</button>` : ''}
+    </div>
+
+    ${picks}
+
+    <div class="form">
+      <label class="switch"><span>Mostrar a todo el equipo<br><small class="muted">Por defecto solo salen quienes tienen ese rol.</small></span>
+        <input type="checkbox" data-bind="todos" data-rerender ${F.todos ? 'checked' : ''}><span class="track"></span></label>
+      <label class="field"><span>Notas</span><textarea class="textarea" data-bind="notas" placeholder="Opcional">${esc(F.notas)}</textarea></label>
+    </div>
+
+    <div class="sheet-actions ${nuevo ? '' : 'two'}">
+      ${nuevo ? '' : `<button class="btn btn-outline danger-btn press" data-acc="eliminarServicio" data-id="${F.idOriginal}">${ic('fa-solid fa-trash')} Eliminar</button>`}
+      <button class="btn btn-primary press" data-acc="guardarServicio">${ic('fa-solid fa-floppy-disk')} Guardar</button>
+    </div>
+  `);
+}
+
+async function guardarServicio(btn) {
+  await conBoton(btn, async () => {
+    const t = S.tipos.get(F.tipo);
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(F.fechaISO)) throw new Error('Elige una fecha.');
+    if (fechaDe(F.fechaISO).getUTCDay() !== t.dia) {
+      const ok = await confirmar('Día distinto', `${tipoNombre(F.tipo)} normalmente es ${DIAS[t.dia].toLowerCase()}, pero elegiste un ${DIAS[fechaDe(F.fechaISO).getUTCDay()].toLowerCase()}. ¿Guardar de todos modos?`, 'Guardar');
+      if (!ok) return;
+    }
+    const { ids } = await apiPost('alb_guardar_servicio', { servicio: {
+      idOriginal: F.idOriginal, fechaISO: F.fechaISO, tipo: F.tipo, hora: F.hora, ambos: F.ambos,
+      notas: F.notas, asignaciones: F.asignaciones, programa: F.programa,
+    } });
+    closeSheet();
+    toast(ids.length > 1 ? `${ids.length} cultos guardados` : 'Culto guardado');
+    await refrescar();
+  });
+}
+
+async function eliminarServicio(id, btn) {
+  const s = servicioPorId(id);
+  if (!s) return;
+  const ok = await confirmar('Eliminar culto',
+    `Se eliminará ${tipoNombre(s.tipo)} del ${fmt(s.fechaISO, { weekday: 'long', day: 'numeric', month: 'long' })} a las ${hora12(s.hora)}, con su equipo y programa.`, 'Eliminar');
+  if (!ok) return;
+  await conBoton(btn, async () => {
+    await apiPost('alb_eliminar_servicio', { id });
+    closeSheet();
+    toast('Culto eliminado');
+    await refrescar();
+  });
+}
+
+function togglePick(rol, uid) {
+  const r = S.roles.find((x) => x.id === rol);
+  const sel = F.asignaciones[rol] ?? [];
+  if (sel.includes(uid)) F.asignaciones[rol] = sel.filter((x) => x !== uid);
+  else if (sel.length < (r?.max ?? 1)) F.asignaciones[rol] = [...sel, uid];
+  redibujar();
+}
+
+// ================= Editor: programa =================
+
+function editarPrograma(id) {
+  const s = servicioPorId(id);
+  if (!s) return;
+  const g = grupoPorClave(claveGrupo(s));
+  F = {
+    tipoForm: 'programa',
+    svcId: id,
+    otros: g.cultos.filter((c) => c.id !== id).map((c) => c.id),
+    aplicarOtros: g.cultos.length > 1 && g.cultos.every((c) => JSON.stringify(c.programa ?? []) === JSON.stringify(s.programa ?? [])),
+    items: [...(s.programa ?? [])].sort((a, b) => a.orden - b.orden)
+      .map((it) => ({ cancionId: it.cancionId, tono: it.tono ?? '', refsTxt: (it.refs ?? []).join('\n'), dirige: it.dirige ?? '', bloque: it.bloque ? String(it.bloque) : '', nota: it.nota ?? '' })),
+  };
+  dibujarF = dibujarEditorPrograma;
+  dibujarF();
+}
+
+function dibujarEditorPrograma() {
+  const s = servicioPorId(F.svcId);
+  const disponibles = [...S.canciones.entries()].filter(([, c]) => !c.archivada).sort((a, b) => a[1].titulo.localeCompare(b[1].titulo, 'es'));
+  openSheet(`
+    <div class="sheet-head">
+      <div>
+        <h3 class="title-font">Editar programa</h3>
+        <div class="meta">${esc(tipoNombre(s.tipo))} · ${esc(fmt(s.fechaISO, { weekday: 'long', day: 'numeric', month: 'short' }))} · ${hora12(s.hora)}</div>
+      </div>
+      ${closeBtn}
+    </div>
+    <div style="margin-top:8px">
+      ${F.items.length ? F.items.map((it, i) => {
+        const c = S.canciones.get(it.cancionId) ?? { titulo: '(canción eliminada)' };
+        return `
+        <div class="prog-item">
+          <div class="prog-move">
+            <button type="button" class="mini-btn press" data-acc="moverCancion" data-i="${i}" data-dir="-1" ${i === 0 ? 'disabled' : ''} aria-label="Subir">${ic('fa-solid fa-chevron-up')}</button>
+            <button type="button" class="mini-btn press" data-acc="moverCancion" data-i="${i}" data-dir="1" ${i === F.items.length - 1 ? 'disabled' : ''} aria-label="Bajar">${ic('fa-solid fa-chevron-down')}</button>
+          </div>
+          <div class="form" style="margin-top:0;gap:8px">
+            <div><b style="font-size:.9rem">${i + 1}. ${esc(c.titulo)}</b> <span class="muted">${esc(c.artista ?? '')}</span></div>
+            <div class="row-2" style="grid-template-columns:1fr 90px">
+              <label class="field"><span>Dirige</span>
+                <select class="select" data-bind="items.${i}.dirige">
+                  <option value="">—</option>
+                  ${vocesActivas().map(([uid, u]) => `<option value="${uid}" ${it.dirige === uid ? 'selected' : ''}>${esc(u.nombre)}</option>`).join('')}
+                </select></label>
+              <label class="field"><span>Bloque</span>
+                <select class="select" data-bind="items.${i}.bloque">
+                  ${['', '1', '2', '3', '4'].map((b) => `<option value="${b}" ${it.bloque === b ? 'selected' : ''}>${b || '—'}</option>`).join('')}
+                </select></label>
+            </div>
+            <div class="row-2" style="grid-template-columns:90px 1fr">
+              <label class="field"><span>Tono</span><input class="input" data-bind="items.${i}.tono" value="${esc(it.tono)}" placeholder="${esc(c.tono ?? '')}" maxlength="6"></label>
+              <label class="field"><span>Nota</span><input class="input" data-bind="items.${i}.nota" value="${esc(it.nota)}" placeholder="Ej. Nueva"></label>
+            </div>
+            <div class="row-2" style="grid-template-columns:1fr">
+              <label class="field"><span>Referencias (un enlace por línea)</span><textarea class="textarea" style="min-height:44px" data-bind="items.${i}.refsTxt" placeholder="https://youtube.com/...">${esc(it.refsTxt)}</textarea></label>
+            </div>
+            ${c.tono || variacionesDe(c).length ? `
+              <div class="pick-list">
+                ${[c.tono ? ['Original', c.tono] : null, ...variacionesDe(c).map(([u, t]) => [nombreCorto(u), t])].filter(Boolean).map(([quien, t]) =>
+                  `<button type="button" class="pick press ${it.tono === t ? 'on' : ''}" style="padding:4px 10px;font-size:.74rem" data-acc="usarTono" data-i="${i}" data-tono="${esc(t)}">${esc(quien)} · ${esc(t)}</button>`).join('')}
+              </div>` : ''}
+          </div>
+          <button type="button" class="mini-btn danger press" data-acc="quitarCancion" data-i="${i}" aria-label="Quitar">${ic('fa-solid fa-xmark')}</button>
+        </div>`;
+      }).join('') : '<div class="empty">Todavía no hay canciones en este programa.</div>'}
+    </div>
+    <div class="form">
+      <label class="field"><span>Agregar canción de la bitácora</span>
+        <select class="select" data-acc-change="agregarCancion">
+          <option value="">Elegir canción…</option>
+          ${disponibles.map(([id, c]) => `<option value="${id}">${esc(c.titulo)}${c.artista ? ` — ${esc(c.artista)}` : ''}</option>`).join('')}
+        </select></label>
+      ${F.nueva ? `
+        <div class="login-box" style="padding:16px">
+          <div class="d-group-label" style="margin-bottom:10px">Canción nueva (se guarda también en la bitácora)</div>
+          <div class="form" style="margin-top:0">
+            <label class="field"><span>Título</span><input class="input" data-bind="nueva.titulo" value="${esc(F.nueva.titulo)}"></label>
+            <div class="row-2">
+              <label class="field"><span>Artista</span><input class="input" data-bind="nueva.artista" value="${esc(F.nueva.artista)}"></label>
+              <label class="field"><span>Tono</span><input class="input" data-bind="nueva.tono" value="${esc(F.nueva.tono)}" maxlength="6" placeholder="Ej. G"></label>
+            </div>
+            <small class="muted">La secuencia y las referencias generales se agregan después en Canciones.</small>
+            <div class="sheet-actions two" style="margin-top:4px">
+              <button type="button" class="btn btn-outline press" data-acc="cancelarCancionNueva">Cancelar</button>
+              <button type="button" class="btn btn-primary press" data-acc="crearCancionPrograma">${ic('fa-solid fa-plus')} Crear y agregar</button>
+            </div>
+          </div>
+        </div>` : `
+        <button type="button" class="link-btn" style="justify-self:start" data-acc="nuevaCancionPrograma">${ic('fa-solid fa-plus')} ¿No está? Crear canción nueva</button>`}
+      ${F.otros.length ? `
+        <label class="switch"><span>Aplicar también al otro culto del día</span>
+          <input type="checkbox" data-bind="aplicarOtros" ${F.aplicarOtros ? 'checked' : ''}><span class="track"></span></label>` : ''}
+    </div>
+    <div class="sheet-actions two">
+      <button class="btn btn-outline press" data-acc="verPrograma" data-id="${F.svcId}">Cancelar</button>
+      <button class="btn btn-primary press" data-acc="guardarPrograma">${ic('fa-solid fa-floppy-disk')} Guardar</button>
+    </div>
+  `);
+}
+
+async function guardarPrograma(btn) {
+  await conBoton(btn, async () => {
+    let descartados = 0;
+    const programa = F.items.map((it, i) => {
+      const crudas = lineas(it.refsTxt);
+      const refs = crudas.map(urlSegura).filter(Boolean);
+      descartados += crudas.length - refs.length;
+      return { cancionId: it.cancionId, orden: i + 1, tono: it.tono.trim(), refs, dirige: it.dirige, bloque: +it.bloque || null, nota: it.nota.trim() };
+    });
+    const destinos = [F.svcId, ...(F.aplicarOtros ? F.otros : [])];
+    await apiPost('alb_guardar_programa', { destinos, programa });
+    const id = F.svcId;
+    await refrescar();
+    verPrograma(id);
+    toast(descartados ? `Programa guardado. Se ignoraron ${descartados} enlace(s) no válidos (deben empezar con https://).` : 'Programa guardado', !!descartados);
+  });
+}
+
+// ================= Música: tonos y transposición =================
+// Los acordes se escriben UNA vez, en el tono original de la canción. Para
+// cualquier otro tono (el de un cantante, el del programa) se calculan.
+
+const NOTAS_SOST = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+const NOTAS_BEM = ['C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab', 'A', 'Bb', 'B'];
+const LETRA = { C: 0, D: 2, E: 4, F: 5, G: 7, A: 9, B: 11 };
+// Tonalidades que se escriben con bemoles (mayores y menores)
+const TONOS_BEMOL = new Set(['F', 'Bb', 'Eb', 'Ab', 'Db', 'Gb', 'Dm', 'Gm', 'Cm', 'Fm', 'Bbm', 'Ebm']);
+const TONOS = [
+  'C', 'Db', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'Ab', 'A', 'Bb', 'B',
+  'Cm', 'C#m', 'Dm', 'Ebm', 'Em', 'Fm', 'F#m', 'Gm', 'G#m', 'Am', 'Bbm', 'Bm',
+];
+const SECCIONES_SUGERIDAS = ['Intro', 'Estrofa', 'Pre-coro', 'Coro', 'Puente', 'Solo', 'Interludio', 'Outro', 'Final'];
+
+const normalizarAcordes = (t) => String(t ?? '').replace(/♯/g, '#').replace(/♭/g, 'b');
+
+function semitono(nota) {
+  const m = /^([A-G])([#b]?)/.exec(nota ?? '');
+  if (!m) return null;
+  return (LETRA[m[1]] + (m[2] === '#' ? 1 : m[2] === 'b' ? -1 : 0) + 12) % 12;
+}
+const tonica = (tono) => /^([A-G][#b]?)/.exec(normalizarAcordes(tono).trim())?.[1] ?? null;
+
+function distancia(desde, hasta) {
+  const a = semitono(tonica(desde)), b = semitono(tonica(hasta));
+  return a === null || b === null ? null : (b - a + 12) % 12;
+}
+
+function moverNota(nota, semis, bemoles) {
+  const s = semitono(nota);
+  return s === null ? nota : (bemoles ? NOTAS_BEM : NOTAS_SOST)[(s + semis) % 12];
+}
+
+const SUFIJO_ACORDE = /^(?:maj|min|m|dim|aug|sus|add|M|\d|[+°ø#b])*$/;
+const PATRON_ACORDE = /^([A-G][#b]?)([^/\s]*)(?:\/([A-G][#b]?))?$/;
+const esAcorde = (t) => { const m = PATRON_ACORDE.exec(t); return !!m && SUFIJO_ACORDE.test(m[2]); };
+
+// 'F#m7', 'D/F#'… Si no es un acorde ("Bajo", "x2"), se deja igual.
+function transponerAcorde(token, semis, bemoles) {
+  if (!esAcorde(token)) return token;
+  const m = PATRON_ACORDE.exec(token);
+  const bajo = m[3] ? `/${moverNota(m[3], semis, bemoles)}` : '';
+  return `${moverNota(m[1], semis, bemoles)}${m[2]}${bajo}`;
+}
+
+// Separadores que se respetan: espacios, guiones, //, |, paréntesis, comas
+const SEPARADORES = /(\s+|\/\/|[-–—|(),])/;
+
+function transponerTexto(texto, desde, hasta) {
+  const limpio = normalizarAcordes(texto);
+  const semis = distancia(desde, hasta);
+  if (!semis) return limpio;
+  const bemoles = TONOS_BEMOL.has(normalizarAcordes(hasta).trim());
+  return limpio.split(SEPARADORES).map((t, i) => (i % 2 ? t : transponerAcorde(t, semis, bemoles))).join('');
+}
+
+// Acordes en dorado, separadores tenues, repeticiones // resaltadas
+function acordesHTML(texto) {
+  return normalizarAcordes(texto).split(SEPARADORES).map((t, i) => {
+    if (!t) return '';
+    if (i % 2) return t === '//' ? '<span class="rep">//</span>' : `<span class="sep">${esc(t)}</span>`;
+    return esAcorde(t) ? `<b class="acorde">${esc(t)}</b>` : `<span class="sep">${esc(t)}</span>`;
+  }).join('');
+}
+
+// Variaciones guardadas: [[uid, tono], …] ordenadas por nombre
+const variacionesDe = (c) => Object.entries(c?.tonosPorPersona ?? {})
+  .filter(([uid]) => S.usuarios.has(uid))
+  .sort((a, b) => nombreDe(a[0]).localeCompare(nombreDe(b[0]), 'es'));
+const nombreCorto = (uid) => nombreDe(uid).split(' ')[0];
+const vocesActivas = () => [...S.usuarios.entries()]
+  .filter(([, u]) => u.activo && u.categoria === 'voz')
+  .sort((a, b) => a[1].nombre.localeCompare(b[1].nombre, 'es'));
+
+// ================= Ficha de canción =================
+
+function verCancion(id, { tono = null, svcId = null, pestana = 'general' } = {}) {
+  const c = S.canciones.get(id);
+  if (!c) return;
+  F = {
+    tipoForm: 'verCancion', id, svcId, pestana,
+    tonoPrograma: tono || null,
+    tonoVista: tono || c.tono || '',
+    nuevaVar: { uid: '', tono: '' },
+  };
+  dibujarF = dibujarCancion;
+  dibujarF();
+}
+
+function dibujarCancion() {
+  const c = S.canciones.get(F.id);
+  const vars = variacionesDe(c);
+  const sec = c.tieneSecuencia && urlSegura(c.secuenciaUrl);
+  const refs = (c.refs ?? []).map(urlSegura).filter(Boolean);
+  const pestana = (p, txt, icono) => `<button class="${F.pestana === p ? 'on' : ''}" data-acc="pestanaCancion" data-p="${p}">${ic(icono)} ${txt}</button>`;
+
+  const general = `
+    <div class="info-strip">
+      <span class="badge badge-gold">Tono original ${esc(c.tono || '—')}</span>
+      ${c.tieneSecuencia ? '<span class="badge badge-ok">Con secuencia</span>' : '<span class="badge">Sin secuencia</span>'}
+      ${(c.secciones ?? []).length ? `<span class="badge">${ic('fa-solid fa-guitar')} Acordes</span>` : ''}
+    </div>
+    ${sec || refs.length ? `<div class="song-links" style="margin-top:6px">
+      ${sec ? `<a href="${esc(sec)}" target="_blank" rel="noopener noreferrer">${ic('fa-solid fa-download')} Secuencia</a>` : ''}
+      ${refs.map((u, j) => `<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${ic('fa-solid fa-play')} Referencia${refs.length > 1 ? ` ${j + 1}` : ''}</a>`).join('')}
+    </div>` : ''}
+
+    <div class="d-group">
+      <div class="d-group-label">Tono según quién dirige</div>
+      ${vars.length ? vars.map(([uid, tono]) => `
+        <div class="d-item" style="grid-template-columns:1fr auto auto">
+          <div class="person">${avatar(uid, 28)}${esc(nombreDe(uid))}</div>
+          <button class="badge badge-gold press" data-acc="verTono" data-tono="${esc(tono)}" title="Ver acordes en ${esc(tono)}">${esc(tono)} ${ic('fa-solid fa-guitar')}</button>
+          ${esAdmin() ? `<button class="mini-btn danger press" data-acc="quitarVariacion" data-uid="${uid}" aria-label="Quitar">${ic('fa-solid fa-xmark')}</button>` : '<span></span>'}
+        </div>`).join('') : '<p class="muted" style="padding:8px 0">Todavía no hay tonos guardados para cantantes.</p>'}
+      ${esAdmin() ? `
+        <div class="row-2" style="grid-template-columns:1fr 110px auto;align-items:end;margin-top:10px">
+          <label class="field"><span>Cantante</span>
+            <select class="select" data-bind="nuevaVar.uid">
+              <option value="">Elegir…</option>
+              ${[...S.usuarios.entries()]
+                .filter(([uid, u]) => u.activo && u.categoria === 'voz' && !(uid in (c.tonosPorPersona ?? {})))
+                .sort((a, b) => a[1].nombre.localeCompare(b[1].nombre, 'es'))
+                .map(([uid, u]) => `<option value="${uid}" ${F.nuevaVar.uid === uid ? 'selected' : ''}>${esc(u.nombre)}</option>`).join('')}
+            </select></label>
+          <label class="field"><span>Tono</span>
+            <select class="select" data-bind="nuevaVar.tono">
+              <option value="">—</option>
+              ${TONOS.map((t) => `<option ${F.nuevaVar.tono === t ? 'selected' : ''}>${t}</option>`).join('')}
+            </select></label>
+          <button class="btn btn-outline press" style="padding:10px 16px" data-acc="agregarVariacion">${ic('fa-solid fa-plus')}</button>
+        </div>` : ''}
+    </div>`;
+
+  let acordes;
+  if (!(c.secciones ?? []).length) {
+    acordes = `<div class="empty">Esta canción todavía no tiene acordes.${esAdmin() ? `<br><br>
+      <button class="btn btn-outline press" data-acc="editarAcordes">${ic('fa-solid fa-pen')} Escribir acordes</button>` : ''}</div>`;
+  } else {
+    const opciones = [
+      c.tono ? { tono: c.tono, txt: `Original · ${c.tono}` } : null,
+      F.tonoPrograma && F.tonoPrograma !== c.tono ? { tono: F.tonoPrograma, txt: `Programa · ${F.tonoPrograma}` } : null,
+      ...vars.map(([uid, t]) => ({ tono: t, txt: `${nombreCorto(uid)} · ${t}` })),
+    ].filter(Boolean);
+    const convertido = c.tono && F.tonoVista && distancia(c.tono, F.tonoVista);
+    acordes = `
+      ${c.tono ? `
+        <div class="tabs" style="margin-top:12px">
+          ${opciones.map((o) => `<button class="tab press ${F.tonoVista === o.tono ? 'active' : ''}" data-acc="verTono" data-tono="${esc(o.tono)}">${esc(o.txt)}</button>`).join('')}
+          <select class="select" style="width:auto;padding:6px 10px;font-size:.8rem;border-radius:99px" data-bind="tonoVista" data-rerender>
+            <option value="">Otro tono…</option>
+            ${TONOS.map((t) => `<option ${F.tonoVista === t && !opciones.some((o) => o.tono === t) ? 'selected' : ''}>${t}</option>`).join('')}
+          </select>
+        </div>
+        <p class="muted" style="margin-top:10px">Viendo en <b style="color:var(--gold-light)">${esc(F.tonoVista || c.tono)}</b>${convertido ? ` · convertido desde ${esc(c.tono)}` : ''}</p>`
+      : `<p class="muted" style="margin-top:10px">${ic('fa-solid fa-circle-info')} Define el tono original para poder convertir los acordes a otros tonos.</p>`}
+      <div style="margin-top:6px">
+        ${c.secciones.map((s) => `
+          <div class="acordes-sec">
+            <div class="lbl">${esc(s.nombre)}</div>
+            <div class="acordes-linea">${acordesHTML(c.tono && F.tonoVista ? transponerTexto(s.acordes, c.tono, F.tonoVista) : s.acordes)}</div>
+          </div>`).join('')}
+      </div>
+      ${esAdmin() ? `<div class="sheet-actions" style="margin-top:14px"><button class="btn btn-outline press" data-acc="editarAcordes">${ic('fa-solid fa-pen')} Editar acordes</button></div>` : ''}`;
+  }
+
+  openSheet(`
+    <div class="sheet-head">
+      <div>
+        <h3 class="title-font">${esc(c.titulo)}</h3>
+        <div class="meta">${esc(c.artista ?? '')}</div>
+      </div>
+      ${closeBtn}
+    </div>
+    <div class="seg lg" style="margin-top:14px">
+      ${pestana('general', 'General', 'fa-solid fa-circle-info')}
+      ${pestana('acordes', 'Acordes', 'fa-solid fa-guitar')}
+    </div>
+    ${F.pestana === 'general' ? general : acordes}
+    <div class="sheet-actions ${F.svcId && esAdmin() ? 'two' : ''}">
+      ${F.svcId ? `<button class="btn btn-outline press" data-acc="verPrograma" data-id="${F.svcId}">${ic('fa-solid fa-arrow-left')} Volver al programa</button>` : ''}
+      ${esAdmin() && F.pestana === 'general' ? `<button class="btn btn-outline press" data-acc="editarCancion" data-id="${F.id}">${ic('fa-solid fa-pen')} Editar datos</button>` : ''}
+    </div>
+  `);
+}
+
+async function agregarVariacion(btn) {
+  await conBoton(btn, async () => {
+    const { uid, tono } = F.nuevaVar;
+    if (!uid || !tono) throw new Error('Elige el cantante y el tono.');
+    await apiPost('alb_guardar_cancion', { id: F.id, datos: { tonosPorPersona: { [uid]: tono } } });
+    const c = S.canciones.get(F.id);
+    c.tonosPorPersona = { ...(c.tonosPorPersona ?? {}), [uid]: tono };
+    F.nuevaVar = { uid: '', tono: '' };
+    redibujar();
+    toast(`Guardado: ${nombreCorto(uid)} la dirige en ${tono}`);
+  });
+}
+
+async function quitarVariacion(uid, btn) {
+  const c = S.canciones.get(F.id);
+  const ok = await confirmar('Quitar tono', `¿Quitar el tono de ${nombreDe(uid)} para "${c.titulo}"?`, 'Quitar');
+  if (!ok) return;
+  await conBoton(btn, async () => {
+    await apiPost('alb_guardar_cancion', { id: F.id, datos: {}, quitarTono: uid });
+    const resto = { ...(c.tonosPorPersona ?? {}) };
+    delete resto[uid];
+    c.tonosPorPersona = resto;
+    redibujar();
+  });
+}
+
+// ================= Editor: acordes =================
+
+function editarAcordes() {
+  const c = S.canciones.get(F.id);
+  const volver = { svcId: F.svcId, tono: F.tonoPrograma };
+  F = {
+    tipoForm: 'acordes', id: F.id, volver,
+    tono: c.tono || '',
+    secciones: (c.secciones ?? []).length
+      ? c.secciones.map((s) => ({ ...s }))
+      : ['Intro', 'Estrofa', 'Coro'].map((nombre) => ({ nombre, acordes: '' })),
+  };
+  dibujarF = dibujarEditorAcordes;
+  dibujarF();
+}
+
+function dibujarEditorAcordes() {
+  const c = S.canciones.get(F.id);
+  const tonos = F.tono && !TONOS.includes(F.tono) ? [F.tono, ...TONOS] : TONOS;
+  openSheet(`
+    <div class="sheet-head">
+      <div>
+        <h3 class="title-font">Acordes</h3>
+        <div class="meta">${esc(c.titulo)}</div>
+      </div>
+      ${closeBtn}
+    </div>
+    <div class="form">
+      <label class="field"><span>Tono original</span>
+        <select class="select" data-bind="tono">
+          <option value="">Elegir…</option>
+          ${tonos.map((t) => `<option ${F.tono === t ? 'selected' : ''}>${t}</option>`).join('')}
+        </select>
+        <small>Escribe los acordes en este tono. La app los convierte sola al tono de cada cantante.</small></label>
+    </div>
+    <datalist id="secciones-sugeridas">${SECCIONES_SUGERIDAS.map((s) => `<option value="${s}">`).join('')}</datalist>
+    <div style="margin-top:10px">
+      ${F.secciones.map((s, i) => `
+        <div class="prog-item">
+          <div class="prog-move">
+            <button type="button" class="mini-btn press" data-acc="moverSeccion" data-i="${i}" data-dir="-1" ${i === 0 ? 'disabled' : ''} aria-label="Subir">${ic('fa-solid fa-chevron-up')}</button>
+            <button type="button" class="mini-btn press" data-acc="moverSeccion" data-i="${i}" data-dir="1" ${i === F.secciones.length - 1 ? 'disabled' : ''} aria-label="Bajar">${ic('fa-solid fa-chevron-down')}</button>
+          </div>
+          <div class="row-2" style="grid-template-columns:120px 1fr;align-items:start">
+            <input class="input" list="secciones-sugeridas" data-bind="secciones.${i}.nombre" value="${esc(s.nombre)}" placeholder="Sección">
+            <input class="input" data-bind="secciones.${i}.acordes" value="${esc(s.acordes)}" placeholder="Ej. // D - G //" style="font-weight:600">
+          </div>
+          <button type="button" class="mini-btn danger press" data-acc="quitarSeccion" data-i="${i}" aria-label="Eliminar sección">${ic('fa-solid fa-trash')}</button>
+        </div>`).join('') || '<div class="empty">Sin secciones. Agrega una abajo.</div>'}
+    </div>
+    <div class="field" style="margin-top:12px"><span>Agregar sección</span>
+      <div class="pick-list">
+        ${SECCIONES_SUGERIDAS.map((s) => `<button type="button" class="pick press" style="padding:6px 12px" data-acc="agregarSeccion" data-nombre="${s}">${ic('fa-solid fa-plus')} ${s}</button>`).join('')}
+        <button type="button" class="pick press" style="padding:6px 12px" data-acc="agregarSeccion" data-nombre="">${ic('fa-solid fa-plus')} Otra</button>
+      </div>
+      <small class="muted">Usa // para repeticiones y guiones entre acordes: // D - G //. Puedes escribir notas como x2 o (solo bajo).</small>
+    </div>
+    <div class="sheet-actions two">
+      <button class="btn btn-outline press" data-acc="cancelarAcordes">Cancelar</button>
+      <button class="btn btn-primary press" data-acc="guardarAcordes">${ic('fa-solid fa-floppy-disk')} Guardar</button>
+    </div>
+  `);
+}
+
+async function guardarAcordes(btn) {
+  await conBoton(btn, async () => {
+    const secciones = F.secciones
+      .map((s) => ({ nombre: s.nombre.trim(), acordes: normalizarAcordes(s.acordes).trim() }))
+      .filter((s) => s.nombre || s.acordes)
+      .map((s) => ({ nombre: s.nombre || 'Sección', acordes: s.acordes }));
+    if (secciones.some((s) => s.acordes) && !F.tono) throw new Error('Elige el tono original en el que escribiste los acordes.');
+    await apiPost('alb_guardar_cancion', { id: F.id, datos: { tono: F.tono, secciones } });
+    const c = S.canciones.get(F.id);
+    Object.assign(c, { tono: F.tono, secciones });
+    toast('Acordes guardados');
+    verCancion(F.id, { tono: F.volver.tono, svcId: F.volver.svcId, pestana: 'acordes' });
+  });
+}
+
+// ================= Editor: canción =================
+
+function editarCancion(id) {
+  const c = id ? S.canciones.get(id) : null;
+  F = {
+    tipoForm: 'cancion', id,
+    titulo: c?.titulo ?? '', artista: c?.artista ?? '', tono: c?.tono ?? '',
+    tieneSecuencia: c?.tieneSecuencia ?? false, secuenciaUrl: c?.secuenciaUrl ?? '',
+    refsTxt: (c?.refs ?? []).join('\n'), archivada: c?.archivada ?? false,
+  };
+  dibujarF = dibujarEditorCancion;
+  dibujarF();
+}
+
+function dibujarEditorCancion() {
+  openSheet(`
+    <div class="sheet-head">
+      <h3 class="title-font">${F.id ? 'Editar canción' : 'Nueva canción'}</h3>
+      ${closeBtn}
+    </div>
+    <div class="form">
+      <label class="field"><span>Título</span><input class="input" data-bind="titulo" value="${esc(F.titulo)}" required></label>
+      <div class="row-2">
+        <label class="field"><span>Artista</span><input class="input" data-bind="artista" value="${esc(F.artista)}"></label>
+        <label class="field"><span>Tono</span><input class="input" data-bind="tono" value="${esc(F.tono)}" maxlength="6" placeholder="Ej. G, Bm"></label>
+      </div>
+      <label class="switch"><span>Tiene secuencia (pista)</span>
+        <input type="checkbox" data-bind="tieneSecuencia" data-rerender ${F.tieneSecuencia ? 'checked' : ''}><span class="track"></span></label>
+      ${F.tieneSecuencia ? `<label class="field"><span>Enlace de la secuencia</span>
+        <input class="input" type="url" data-bind="secuenciaUrl" value="${esc(F.secuenciaUrl)}" placeholder="https://drive.google.com/...">
+        <small>Un enlace de Drive, Dropbox, etc. desde donde se pueda descargar o abrir.</small></label>` : ''}
+      <label class="field"><span>Referencias (un enlace por línea)</span>
+        <textarea class="textarea" data-bind="refsTxt" placeholder="https://youtube.com/...">${esc(F.refsTxt)}</textarea></label>
+    </div>
+    <div class="sheet-actions ${F.id ? 'two' : ''}">
+      ${F.id ? `<button class="btn btn-outline press" data-acc="archivarCancion">${ic(F.archivada ? 'fa-solid fa-box-open' : 'fa-solid fa-box-archive')} ${F.archivada ? 'Restaurar' : 'Archivar'}</button>` : ''}
+      <button class="btn btn-primary press" data-acc="guardarCancion">${ic('fa-solid fa-floppy-disk')} Guardar</button>
+    </div>
+    ${F.id ? '<p class="muted" style="text-align:center;margin-top:10px">Archivar la oculta de la lista y del selector, pero los programas pasados la siguen mostrando.</p>' : ''}
+  `);
+}
+
+async function guardarCancion(btn, { archivar = null } = {}) {
+  await conBoton(btn, async () => {
+    if (!F.titulo.trim()) throw new Error('Escribe el título.');
+    let secuenciaUrl = '';
+    if (F.tieneSecuencia && F.secuenciaUrl.trim()) {
+      secuenciaUrl = urlSegura(F.secuenciaUrl);
+      if (!secuenciaUrl) throw new Error('El enlace de la secuencia debe empezar con https://');
+    }
+    const crudas = lineas(F.refsTxt);
+    const refs = crudas.map(urlSegura).filter(Boolean);
+    if (refs.length < crudas.length) throw new Error('Hay referencias que no son enlaces válidos (deben empezar con https://).');
+    await apiPost('alb_guardar_cancion', { id: F.id, datos: {
+      titulo: F.titulo.trim(), artista: F.artista.trim(), tono: F.tono.trim(),
+      tieneSecuencia: F.tieneSecuencia, secuenciaUrl, refs,
+      archivada: archivar ?? F.archivada,
+    } });
+    closeSheet();
+    toast(archivar === true ? 'Canción archivada' : archivar === false ? 'Canción restaurada' : 'Canción guardada');
+    await refrescar();
+  });
+}
+
+// ================= Editor: persona =================
+
+function editarPersona(id) {
+  const u = id ? S.usuarios.get(id) : null;
+  F = {
+    tipoForm: 'persona', id,
+    nombre: u?.nombre ?? '', email: u?.email ?? '', etiqueta: u?.etiqueta ?? '',
+    categoria: u ? (u.categoria ?? '') : 'voz',
+    rolesServicio: [...(u?.rolesServicio ?? [])],
+    activo: u?.activo ?? true,
+    rol: u?.rol ?? 'miembro',
+    puedeUsarPin: u?.puedeUsarPin ?? false,
+  };
+  dibujarF = dibujarEditorPersona;
+  dibujarF();
+}
+
+function dibujarEditorPersona() {
+  const yo = F.id === S.uid;
+  openSheet(`
+    <div class="sheet-head">
+      <h3 class="title-font">${F.id ? 'Editar persona' : 'Agregar persona'}</h3>
+      ${closeBtn}
+    </div>
+    <div class="form">
+      <label class="field"><span>Nombre</span><input class="input" data-bind="nombre" value="${esc(F.nombre)}"></label>
+      <label class="field"><span>Correo</span><input class="input" type="email" data-bind="email" value="${esc(F.email)}" placeholder="Opcional — para entrar con el código">
+        <small>Con este correo entra a la plataforma. Sin correo, igual se le puede asignar.</small></label>
+      <div class="row-2">
+        <label class="field"><span>Categoría</span>
+          <select class="select" data-bind="categoria">
+            <option value="voz" ${F.categoria === 'voz' ? 'selected' : ''}>Voz</option>
+            <option value="musico" ${F.categoria === 'musico' ? 'selected' : ''}>Músico</option>
+            <option value="" ${F.categoria === '' ? 'selected' : ''}>Ninguna (no sirve en roles)</option>
+          </select></label>
+        <label class="field"><span>Descripción</span><input class="input" data-bind="etiqueta" value="${esc(F.etiqueta)}" placeholder="Ej. Voz principal"></label>
+      </div>
+      <div class="field"><span>Puede servir como</span>
+        <div class="pick-list">${S.roles.map((r) => `
+          <button type="button" class="pick press ${F.rolesServicio.includes(r.id) ? 'on' : ''}" data-acc="toggleRolPersona" data-rol="${r.id}" style="padding:6px 12px">${esc(r.nombre)}</button>`).join('')}
+        </div></div>
+      <label class="switch"><span>Activo<br><small class="muted">${yo ? 'No puedes desactivarte a ti mismo.' : 'Inactivo: no puede entrar ni aparece para asignar. Su historial se conserva.'}</small></span>
+        <input type="checkbox" data-bind="activo" ${F.activo ? 'checked' : ''} ${yo ? 'disabled' : ''}><span class="track"></span></label>
+      ${esSuper() ? `
+        <div class="d-group-label" style="margin-top:6px">Solo super admin</div>
+        <label class="field"><span>Rol en la plataforma</span>
+          <select class="select" data-bind="rol" ${yo ? 'disabled' : ''}>
+            ${['miembro', 'admin'].map((r) => `<option value="${r}" ${F.rol === r ? 'selected' : ''}>${ROL_LABEL[r]}</option>`).join('')}
+          </select></label>
+        <label class="switch"><span>Puede entrar con PIN</span>
+          <input type="checkbox" data-bind="puedeUsarPin" ${F.puedeUsarPin ? 'checked' : ''}><span class="track"></span></label>` : ''}
+    </div>
+    <div class="sheet-actions">
+      <button class="btn btn-primary press" data-acc="guardarPersona">${ic('fa-solid fa-floppy-disk')} Guardar</button>
+    </div>
+  `);
+}
+
+async function guardarPersona(btn) {
+  await conBoton(btn, async () => {
+    const nombre = F.nombre.trim();
+    const email = F.email.trim().toLowerCase();
+    if (!nombre) throw new Error('Escribe el nombre.');
+    if (email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) throw new Error('Escribe un correo válido.');
+    const duplicado = email && [...S.usuarios.entries()].find(([id, u]) => id !== F.id && !u.cuenta && u.email?.toLowerCase() === email);
+    if (duplicado) throw new Error(`Ese correo ya lo tiene ${duplicado[1].nombre}.`);
+
+    const datos = {
+      nombre, email, etiqueta: F.etiqueta.trim(),
+      categoria: F.categoria || null,
+      rolesServicio: S.roles.filter((r) => F.rolesServicio.includes(r.id)).map((r) => r.id),
+      activo: F.id === S.uid ? true : F.activo,
+      rol: F.rol, puedeUsarPin: F.puedeUsarPin,
+    };
+    await apiPost('alb_guardar_persona', { id: F.id, datos });
+    closeSheet();
+    toast('Persona guardada');
+    await refrescar();
+  });
+}
+
+// ================= Editor: ensayo =================
+
+function editarEnsayo(id) {
+  const e = S.ensayos.get(id);
+  if (!e) return;
+  F = { tipoForm: 'ensayo', id, fechaISO: e.fechaISO, hora: e.hora, estado: e.estado ?? 'programado', notas: e.notas ?? '' };
+  dibujarF = () => openSheet(`
+    <div class="sheet-head">
+      <h3 class="title-font">Ensayo</h3>
+      ${closeBtn}
+    </div>
+    <div class="form">
+      <div class="row-2">
+        <label class="field"><span>Fecha</span><input class="input" type="date" data-bind="fechaISO" value="${esc(F.fechaISO)}"></label>
+        <label class="field"><span>Hora</span><input class="input" type="time" data-bind="hora" value="${esc(F.hora)}"></label>
+      </div>
+      <label class="field"><span>Estado</span>
+        <select class="select" data-bind="estado">
+          <option value="programado" ${F.estado !== 'cancelado' ? 'selected' : ''}>Programado</option>
+          <option value="cancelado" ${F.estado === 'cancelado' ? 'selected' : ''}>Cancelado</option>
+        </select></label>
+      <label class="field"><span>Notas</span><textarea class="textarea" data-bind="notas" placeholder="Ej. Se movió por actividad de la iglesia">${esc(F.notas)}</textarea></label>
+    </div>
+    <div class="sheet-actions"><button class="btn btn-primary press" data-acc="guardarEnsayo">${ic('fa-solid fa-floppy-disk')} Guardar</button></div>
+  `);
+  dibujarF();
+}
+
+async function guardarEnsayo(btn) {
+  await conBoton(btn, async () => {
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(F.fechaISO) || !/^\d{2}:\d{2}$/.test(F.hora)) throw new Error('Revisa la fecha y la hora.');
+    await apiPost('alb_guardar_ensayo', { id: F.id, datos: { fechaISO: F.fechaISO, hora: F.hora, estado: F.estado, notas: F.notas } });
+    closeSheet();
+    toast('Ensayo actualizado');
+    await refrescar();
+  });
+}
+
+// ================= Perfil =================
+
+function verPerfil() {
+  const me = S.me;
+  openSheet(`
+    <div class="sheet-head"><div></div>${closeBtn}</div>
+    <div style="text-align:center">
+      <div style="display:flex;justify-content:center;margin-bottom:12px">${avatar(S.uid, 72)}</div>
+      <h3 class="title-font" style="font-size:1.3rem">${esc(me.nombre)}</h3>
+      <p style="color:var(--lilac);font-size:.88rem">${esc(me.email ?? '')}</p>
+      <div class="info-strip" style="justify-content:center">
+        <span class="badge ${esAdmin() ? 'badge-gold' : ''}">${esc(ROL_LABEL[me.rol] ?? me.rol)}</span>
+        ${me.categoria ? `<span class="badge">${me.categoria === 'voz' ? 'Voz' : 'Músico'}</span>` : ''}
+        ${DEMO ? '<span class="badge">Vista previa</span>' : ''}
+      </div>
+    </div>
+    ${me.puedeUsarPin ? `
+      <form class="form" data-form="definirPin" style="margin-top:22px">
+        <div class="d-group-label">Acceso con PIN</div>
+        <p class="muted" style="margin-top:-6px">Crea o cambia tu PIN de 6 dígitos para entrar sin esperar el correo. Evita fechas de nacimiento o números obvios.</p>
+        <div class="row-2">
+          <label class="field"><span>PIN nuevo</span><input class="input code-input" type="password" name="pin" inputmode="numeric" maxlength="6" pattern="[0-9]{6}" required autocomplete="new-password"></label>
+          <label class="field"><span>Repetir PIN</span><input class="input code-input" type="password" name="pin2" inputmode="numeric" maxlength="6" pattern="[0-9]{6}" required autocomplete="new-password"></label>
+        </div>
+        <button class="btn btn-outline press">${ic('fa-solid fa-key')} Guardar PIN</button>
+      </form>` : ''}
+    <div class="sheet-actions"><button class="btn btn-outline press" data-acc="salir">${ic('fa-solid fa-right-from-bracket')} Cerrar sesión</button></div>
+  `);
+}
+
+// ================= Acciones (clics) =================
+
+const ACCIONES = {
+  cerrar: () => closeSheet(),
+  enlace: () => 'seguir', // deja que el <a> abra el enlace sin abrir el editor de la fila
+  vista: (d) => irA(d.vista),
+  filtro: (d) => { S.filtro = d.f; renderInicio(); },
+  verGrupo: (d) => verGrupo(d.grupo),
+  verPrograma: (d) => verPrograma(d.id),
+  elegirCulto: (d, el) => {
+    S.sel.set(d.grupo, +d.i);
+    if (el.closest('#sheet')) verGrupo(d.grupo);
+    else if (S.vista === 'programacion') dibujarGrid();
+  },
+  gridMes: (d) => {
+    const g = S.grid;
+    g.mes += +d.dir;
+    if (g.mes < 1) { g.mes = 12; g.anio--; }
+    if (g.mes > 12) { g.mes = 1; g.anio++; }
+    g.col = 0;
+    renderGrid();
+  },
+  gridTipo: (d) => { S.grid.tipo = d.tipo; S.grid.col = 0; dibujarGrid(); },
+  gridScroll: (d) => $('#grid-wrap').scrollBy({ left: +d.dir * 340, behavior: 'smooth' }),
+  gridCol: (d) => {
+    const g = S.grid;
+    const n = agrupar((S.meses.get(claveMes(g.anio, g.mes)) ?? []).filter((s) => s.tipo === g.tipo)).length;
+    if (n) { g.col = (g.col + +d.dir + n) % n; dibujarGrid(); }
+  },
+
+  // Login
+  loginPaso: (d) => { L.paso = d.paso; renderLoginBox(); },
+  reenviarCodigo: (d, el) => conBoton(el, () => pedirCodigo(L.email)),
+  salir: () => { closeSheet(); salir(); },
+
+  // Editores
+  nuevoServicio: (d) => editarServicio(null, { tipo: d.tipo }),
+  editarServicio: (d) => editarServicio(d.id),
+  guardarServicio: (d, el) => guardarServicio(el),
+  eliminarServicio: (d, el) => eliminarServicio(d.id, el),
+  togglePick: (d) => togglePick(d.rol, d.uid),
+  copiarEquipo: (d) => {
+    F.asignaciones = structuredClone(servicioPorId(d.id)?.asignaciones ?? {});
+    redibujar();
+    toast('Equipo copiado. Ajusta lo que cambie y guarda.');
+  },
+  editarPrograma: (d) => editarPrograma(d.id),
+  moverCancion: (d) => {
+    const i = +d.i, j = i + +d.dir;
+    [F.items[i], F.items[j]] = [F.items[j], F.items[i]];
+    redibujar();
+  },
+  quitarCancion: (d) => { F.items.splice(+d.i, 1); redibujar(); },
+  nuevaCancionPrograma: () => { F.nueva = { titulo: '', artista: '', tono: '' }; redibujar(); },
+  cancelarCancionNueva: () => { F.nueva = null; redibujar(); },
+  crearCancionPrograma: (d, el) => conBoton(el, async () => {
+    const titulo = F.nueva.titulo.trim();
+    if (!titulo) throw new Error('Escribe el título de la canción.');
+    // Si ya existe (mismo título), se usa esa: una canción = un solo registro
+    const clave = (t) => t.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
+    const existente = [...S.canciones.entries()].find(([, c]) => clave(c.titulo) === clave(titulo));
+    let id = existente?.[0];
+    if (!id) {
+      const r = await apiPost('alb_guardar_cancion', { reusar: true, datos: {
+        titulo, artista: F.nueva.artista.trim(), tono: F.nueva.tono.trim(),
+        tieneSecuencia: false, secuenciaUrl: '', refs: [], archivada: false,
+      } });
+      S.canciones.set(r.id, r.cancion);
+      id = r.id;
+    }
+    const tono = F.nueva.tono.trim() || S.canciones.get(id)?.tono || '';
+    F.nueva = null;
+    if (F.items.some((it) => it.cancionId === id)) {
+      redibujar();
+      toast(`"${S.canciones.get(id)?.titulo}" ya está en este programa.`, true);
+      return;
+    }
+    F.items.push({ cancionId: id, tono, refsTxt: '', dirige: '', bloque: F.items.at(-1)?.bloque ?? '', nota: '' });
+    redibujar();
+    toast(existente ? `"${existente[1].titulo}" ya estaba en la bitácora: se agregó esa.` : 'Canción creada y agregada. Recuerda guardar el programa.');
+  }),
+  guardarPrograma: (d, el) => guardarPrograma(el),
+  editarCancion: (d) => editarCancion(d.id),
+  verCancion: (d) => verCancion(d.id, { tono: d.tono || null, svcId: d.svc || null }),
+  pestanaCancion: (d) => { F.pestana = d.p; redibujar(); },
+  verTono: (d) => { F.tonoVista = d.tono; F.pestana = 'acordes'; redibujar(); },
+  agregarVariacion: (d, el) => agregarVariacion(el),
+  quitarVariacion: (d, el) => quitarVariacion(d.uid, el),
+  editarAcordes: () => editarAcordes(),
+  agregarSeccion: (d) => { F.secciones.push({ nombre: d.nombre, acordes: '' }); redibujar(); },
+  quitarSeccion: (d) => { F.secciones.splice(+d.i, 1); redibujar(); },
+  moverSeccion: (d) => {
+    const i = +d.i, j = i + +d.dir;
+    [F.secciones[i], F.secciones[j]] = [F.secciones[j], F.secciones[i]];
+    redibujar();
+  },
+  guardarAcordes: (d, el) => guardarAcordes(el),
+  cancelarAcordes: () => verCancion(F.id, { tono: F.volver.tono, svcId: F.volver.svcId, pestana: 'acordes' }),
+  usarTono: (d) => { F.items[+d.i].tono = d.tono; redibujar(); },
+  guardarCancion: (d, el) => guardarCancion(el),
+  archivarCancion: (d, el) => guardarCancion(el, { archivar: !F.archivada }),
+  editarPersona: (d) => editarPersona(d.id),
+  toggleRolPersona: (d) => {
+    F.rolesServicio = F.rolesServicio.includes(d.rol) ? F.rolesServicio.filter((r) => r !== d.rol) : [...F.rolesServicio, d.rol];
+    redibujar();
+  },
+  guardarPersona: (d, el) => guardarPersona(el),
+  editarEnsayo: (d) => editarEnsayo(d.id),
+  guardarEnsayo: (d, el) => guardarEnsayo(el),
+};
+
+document.addEventListener('click', (e) => {
+  if (!e.target.closest('.user-wrap')) cerrarMenu();
+  const el = e.target.closest('[data-acc]');
+  if (!el || el.disabled) return;
+  const accion = ACCIONES[el.dataset.acc];
+  if (!accion) return;
+  if (el.dataset.acc === 'enlace') { e.stopPropagation(); return; }
+  e.preventDefault();
+  accion(el.dataset, el);
+});
+
+// Enlaces dentro de filas clicables: que abran el enlace y no el editor
+document.addEventListener('click', (e) => {
+  if (e.target.closest('a[data-acc="enlace"]')) e.stopImmediatePropagation();
+}, true);
+
+// Formularios: cada campo con data-bind actualiza F; data-rerender redibuja
+function alCambiar(e) {
+  const el = e.target;
+  if (el.dataset.accChange === 'agregarCancion') {
+    if (e.type !== 'change' || !el.value) return;
+    const c = S.canciones.get(el.value);
+    if (F.items.some((it) => it.cancionId === el.value)) {
+      el.value = '';
+      toast(`"${c?.titulo}" ya está en este programa.`, true);
+      return;
+    }
+    F.items.push({ cancionId: el.value, tono: c?.tono ?? '', refsTxt: '', dirige: '', bloque: F.items.at(-1)?.bloque ?? '', nota: '' });
+    redibujar();
+    return;
+  }
+  if (!F || !el.dataset.bind) return;
+  const v = el.type === 'checkbox' ? el.checked : el.value;
+  asignarRuta(F, el.dataset.bind, v);
+  // Al cambiar el tipo de culto: su primer horario y, si la fecha no cae en su día, la próxima que sí
+  if (F.tipoForm === 'servicio' && el.dataset.bind === 'tipo' && e.type === 'change') {
+    F.hora = S.tipos.get(v)?.horarios?.[0] ?? F.hora;
+    if (fechaDe(F.fechaISO).getUTCDay() !== S.tipos.get(v)?.dia) F.fechaISO = proximaFecha(v);
+  }
+  if ('rerender' in el.dataset && e.type === 'change') redibujar();
+}
+document.addEventListener('input', alCambiar);
+document.addEventListener('change', alCambiar);
+
+$('#user-menu').addEventListener('click', (e) => {
+  const b = e.target.closest('[data-menu]');
+  if (!b) return;
+  cerrarMenu();
+  if (b.dataset.menu === 'perfil') verPerfil();
+  if (b.dataset.menu === 'salir') salir();
+  if (b.dataset.menu === 'hoguera') location.href = 'index.html#acceso';
+});
+$('#overlay').addEventListener('click', closeSheet);
+(() => {
+  const sh = $('#sheet'); let y0 = null, dy = 0;
+  sh.addEventListener('touchstart', (e) => { if (sh.scrollTop <= 0 && innerWidth < 768) y0 = e.touches[0].clientY; }, { passive: true });
+  sh.addEventListener('touchmove', (e) => {
+    if (y0 === null) return; dy = e.touches[0].clientY - y0;
+    if (dy > 0) { sh.style.transition = 'none'; sh.style.transform = `translateY(${dy}px)`; }
+  }, { passive: true });
+  sh.addEventListener('touchend', () => {
+    sh.style.transition = ''; sh.style.transform = '';
+    if (y0 !== null && dy > 110) closeSheet();
+    y0 = null; dy = 0;
+  });
+})();
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { closeSheet(); cerrarMenu(); } });
+
+$('#fab').addEventListener('click', () => {
+  if (S.vista === 'canciones') editarCancion(null);
+  else if (S.vista === 'equipo') editarPersona(null);
+  else editarServicio(null);
+});
+
+// ================= Arranque =================
+
+function mostrar(vista) {
+  $('#login').classList.toggle('hidden', vista !== 'login');
+  $('#app').classList.toggle('hidden', vista !== 'app');
+  $('#loader').classList.add('out');
+  document.body.classList.remove('locked');
+}
+
+if (leerPref('sidebar') === '1') $('#app').classList.add('colapsado');
+
+// ================= Vista previa local (?demo en localhost) =================
+// Simula el backend con los mismos datos iniciales que instalarAlabanza().
+const Mock = (() => {
+  const espera = () => sleep(250 + Math.random() * 250);
+  const lista = (s) => s.split(',').filter(Boolean);
+  const usuarios = {
+    'ALB-001': { nombre: 'Geraldine Navas', email: '', rol: 'admin', categoria: 'voz', etiqueta: 'Voz principal · Dirige', rolesServicio: ['dirige', 'coros'], activo: true },
+    'ALB-002': { nombre: 'Alex Navas', email: 'alexnavasoficial@gmail.com', rol: 'admin', categoria: 'voz', etiqueta: 'Voz', rolesServicio: ['dirige', 'coros'], activo: true },
+    'ALB-003': { nombre: 'Eneyda de Castro', email: '', rol: 'miembro', categoria: 'voz', etiqueta: 'Coros · Dirige', rolesServicio: ['dirige', 'coros'], activo: true },
+    'ALB-004': { nombre: 'Miguel Rivera', email: '', rol: 'miembro', categoria: 'voz', etiqueta: 'Coros · Dirige', rolesServicio: ['dirige', 'coros'], activo: true },
+    'ALB-005': { nombre: 'Marcelo Carrillo', email: '', rol: 'miembro', categoria: 'musico', etiqueta: 'Guitarra acústica', rolesServicio: ['acustica'], activo: true },
+    'ALB-006': { nombre: 'Alex Fuentes', email: 'alexander.fg3@gmail.com', rol: 'miembro', categoria: 'musico', etiqueta: 'Piano · Apoyo temporal', rolesServicio: ['piano'], activo: true, puedeUsarPin: true },
+    'ALB-007': { nombre: 'Músico por definir (acústica)', email: '', rol: 'miembro', categoria: 'musico', etiqueta: 'Guitarra acústica', rolesServicio: ['acustica'], activo: true, nombrePendiente: true },
+    'ALB-008': { nombre: 'Músico por definir (eléctrica)', email: '', rol: 'miembro', categoria: 'musico', etiqueta: 'Guitarra eléctrica', rolesServicio: ['electrica'], activo: true, nombrePendiente: true },
+    'ALB-009': { nombre: 'Músico por definir (bajo)', email: '', rol: 'miembro', categoria: 'musico', etiqueta: 'Bajo', rolesServicio: ['bajo'], activo: true, nombrePendiente: true },
+    'ALB-010': { nombre: 'Músico por definir (batería)', email: '', rol: 'miembro', categoria: 'musico', etiqueta: 'Batería', rolesServicio: ['bateria'], activo: true, nombrePendiente: true },
+    'USR-004': { nombre: 'Líder de Alabanza', email: 'cambiar-lider-alabanza@correo.com', rol: 'admin', categoria: null, etiqueta: 'Líder de alabanza', rolesServicio: [], activo: true, cuenta: true },
+  };
+  const roles = [
+    ['dirige', 'Dirige', 'dirige', 'voz', 1, 1], ['coros', 'Coros', 'voces', 'voz', 3, 2], ['piano', 'Piano', 'musicos', 'musico', 1, 3],
+    ['acustica', 'Guitarra Acústica', 'musicos', 'musico', 1, 4], ['electrica', 'Guitarra Eléctrica', 'musicos', 'musico', 1, 5],
+    ['bajo', 'Bajo', 'musicos', 'musico', 1, 6], ['bateria', 'Batería', 'musicos', 'musico', 1, 7],
+  ].map(([id, nombre, grupo, categoria, max, orden]) => ({ id, nombre, grupo, categoria, max, orden }));
+  const grupos = [{ id: 'dirige', nombre: 'Dirige', orden: 1 }, { id: 'voces', nombre: 'Voces', orden: 2 }, { id: 'musicos', nombre: 'Músicos', orden: 3 }];
+  const tipos = {
+    domingo: { nombre: 'Servicio dominical', dia: 0, horarios: ['10:00'], roles: lista('dirige,coros,piano,acustica,electrica,bajo,bateria'), maxInstrumentos: null, ensayo: null },
+    miercoles: { nombre: 'Hoguera Nights', dia: 3, horarios: ['19:00'], roles: lista('dirige,coros,piano,acustica'), maxInstrumentos: null, ensayo: null },
+  };
+  const canciones = {};
+  [['Porque Bueno Es Dios', 'Jaime Murrell', 'UA2iO83iaas'], ['Danzaré', 'Averly Morillo', 'IBdGoJF068o'], ['Mi Gozo', 'Barak', 'IxD3JiOo9DY'],
+    ['Glorifícate', 'Miel San Marcos', 'mywWiI6H8xc'], ['Señor Eres Fiel', 'Marco Barrientos', 'pkfmBLEVvNg'],
+    ['Te Doy Gloria', 'En Espíritu y En Verdad', 'GPY_7xfdTu4'], ['Eres Digno de Adorar', 'CCINT', 'zIZ9H0Vj8vE'], ['Soy la Ofrenda', 'Montesanto', '7us5BqKyN-o']]
+    .forEach(([titulo, artista, yt], i) => {
+      canciones[`CAN-00${i + 1}`] = { titulo, artista, tono: '', tieneSecuencia: false, secuenciaUrl: '', refs: [`https://www.youtube.com/watch?v=${yt}`], archivada: false, tonosPorPersona: {}, secciones: [] };
+    });
+  const servicios = [];
+  const ensayos = [];
+  const participantes = (a) => [...new Set(Object.values(a).flat())];
+  const nuevoSvc = (fechaISO, tipo, hora, asignaciones, programa = [], notas = '') =>
+    servicios.push({ id: `${fechaISO}_${tipo}_${hora.replace(':', '')}`, fechaISO, hora, tipo, notas, ensayoId: null, asignaciones, participantes: participantes(asignaciones), programa });
+  const domingo = () => ({ dirige: ['ALB-001'], coros: ['ALB-003', 'ALB-004'], piano: ['ALB-006'], acustica: ['ALB-007'], electrica: ['ALB-008'], bajo: ['ALB-009'], bateria: ['ALB-010'] });
+  for (let f = '2026-10-21'; f <= '2026-12-30'; f = sumarDias(f, 7)) nuevoSvc(f, 'miercoles', '19:00', { dirige: ['ALB-001'], coros: ['ALB-002'], acustica: ['ALB-005'] });
+  nuevoSvc('2026-10-25', 'domingo', '10:00', domingo(), [
+    ['CAN-001', 'ALB-001', 1, ''], ['CAN-002', 'ALB-001', 1, ''], ['CAN-003', 'ALB-003', 1, ''], ['CAN-004', 'ALB-001', 1, ''],
+    ['CAN-005', 'ALB-001', 2, ''], ['CAN-006', 'ALB-004', 2, ''], ['CAN-007', 'ALB-001', 2, ''], ['CAN-008', 'ALB-001', 2, 'Nueva'],
+  ].map(([cancionId, dirige, bloque, nota], i) => ({ cancionId, orden: i + 1, tono: '', refs: [], dirige, bloque, nota })), 'Primer servicio presencial');
+  nuevoSvc('2026-11-29', 'domingo', '10:00', domingo(), [], 'Fecha tentativa — confirmar el domingo del mes');
+  nuevoSvc('2026-12-27', 'domingo', '10:00', domingo(), [], 'Fecha tentativa — confirmar el domingo del mes');
+
+  const clon = (o) => JSON.parse(JSON.stringify(o));
+  return {
+    async get(action) {
+      await espera();
+      if (action !== 'alabanza_base') throw new Error('Acción no reconocida');
+      if (!token()) throw new Error('Sesión inválida o expirada');
+      return clon({
+        uid: 'ALB-006', me: { ...usuarios['ALB-006'], rol: 'superadmin' }, usuarios, hoguera: true,
+        grupos, roles, tipos, canciones, servicios, ensayos, hoy: new Intl.DateTimeFormat('en-CA', { timeZone: TZ }).format(new Date()),
+      });
+    },
+    async post(action, p) {
+      await espera();
+      if (action === 'login_solicitar_codigo' || action === 'logout' || action === 'definir_pin') return { ok: true };
+      if (action === 'login_verificar_codigo' || action === 'login_pin') {
+        if ((p.codigo ?? p.pin) !== '123456') throw new Error('Código incorrecto o vencido.');
+        return { token: 'demo' };
+      }
+      if (action === 'alb_guardar_servicio') {
+        const F = p.servicio; const t = tipos[F.tipo];
+        const horas = !F.idOriginal && F.ambos && t.horarios.length > 1 ? t.horarios : [F.hora];
+        const asig = Object.fromEntries(Object.entries(F.asignaciones).filter(([r, ids]) => t.roles.includes(r) && ids.length));
+        const ids = horas.map((h) => `${F.fechaISO}_${F.tipo}_${h.replace(':', '')}`);
+        ids.forEach((id) => { if (id !== F.idOriginal && servicios.some((s) => s.id === id)) throw new Error('Ya existe ese culto.'); });
+        if (F.idOriginal) servicios.splice(servicios.findIndex((s) => s.id === F.idOriginal), 1);
+        horas.forEach((h) => nuevoSvc(F.fechaISO, F.tipo, h, clon(asig), clon(F.programa), F.notas.trim()));
+        return { ids };
+      }
+      if (action === 'alb_eliminar_servicio') { servicios.splice(servicios.findIndex((s) => s.id === p.id), 1); return { id: p.id }; }
+      if (action === 'alb_guardar_programa') { p.destinos.forEach((id) => { servicios.find((s) => s.id === id).programa = clon(p.programa); }); return { ok: true }; }
+      if (action === 'alb_guardar_cancion') {
+        let id = p.id;
+        if (!id) { id = `CAN-${String(Object.keys(canciones).length + 1).padStart(3, '0')}`; canciones[id] = { tonosPorPersona: {}, secciones: [] }; }
+        const c = canciones[id];
+        const { tonosPorPersona, ...resto } = p.datos;
+        Object.assign(c, resto);
+        if (tonosPorPersona) Object.assign(c.tonosPorPersona, tonosPorPersona);
+        if (p.quitarTono) delete c.tonosPorPersona[p.quitarTono];
+        return { id, cancion: clon(c) };
+      }
+      if (action === 'alb_guardar_persona') {
+        const id = p.id || `ALB-${String(Object.keys(usuarios).length + 1).padStart(3, '0')}`;
+        usuarios[id] = { ...(usuarios[id] ?? {}), ...p.datos, nombrePendiente: false };
+        return { id };
+      }
+      if (action === 'alb_guardar_ensayo') return { ok: true };
+      throw new Error('Acción no reconocida');
+    },
+  };
+})();
+
+arrancar();
+
+// Sesión: token compartido con el panel de Hoguera (localStorage)
+async function salir() {
+  const t = token();
+  guardarPref(LS_TOKEN, '');
+  try { localStorage.removeItem(LS_TOKEN); } catch {}
+  if (t) apiPost('logout', { token: t }).catch(() => {});
+  closeSheet();
+  L.paso = 'email'; renderLogin(); mostrar('login');
+  toast('Sesión cerrada');
+}
+
+async function arrancar() {
+  const inicio = Date.now();
+  if (!token()) {
+    await sleep(Math.max(0, 900 - (Date.now() - inicio))); // que se aprecie el logo
+    L.paso = 'email'; renderLogin(); mostrar('login'); return;
+  }
+  $('#loader').classList.remove('out');
+  try {
+    S.meses.clear();
+    await cargarBase();
+    await sleep(Math.max(0, 900 - (Date.now() - inicio)));
+    closeSheet();
+    renderTopbar();
+    renderInicio();
+    mostrar('app');
+    const guardada = leerPref('vista');
+    await irA(VISTAS.some((v) => v.id === guardada) ? guardada : 'inicio');
+  } catch (err) {
+    console.warn(err);
+    try { localStorage.removeItem(LS_TOKEN); } catch {}
+    L.paso = 'email'; renderLogin(); mostrar('login');
+    toast(/Sesión/.test(err.message) ? 'Tu sesión venció. Entra de nuevo.' : err.message, true);
+  }
+}
+</script>
+</body>
+</html>
